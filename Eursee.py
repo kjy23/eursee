@@ -1787,6 +1787,7 @@ STATIC_CATEGORIES = {
     "POWER LOVE": "🇹🇷土耳其",
     "NUMBER ONE (backup)": "🇹🇷土耳其",
     "KRAL - KRAL POP (backup)": "🇹🇷土耳其",
+    "DİNÎ, DİĞER",TRT AVAZ": "🇹🇷土耳其",
     "TRT TÜRK": "🇹🇷土耳其",
     "KANAL 7 AVRUPA": "🇹🇷土耳其",
     "SHOW TÜRK": "🇹🇷土耳其",
