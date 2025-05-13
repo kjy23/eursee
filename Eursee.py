@@ -457,7 +457,6 @@ STATIC_TV_NAMES = {
     "POWER LOVE": "POWER LOVE",
     "NUMBER ONE (backup)": "NUMBER ONE",
     "KRAL - KRAL POP (backup)": "KRAL - KRAL POP",
-    "DİNÎ, DİĞER",TRT AVAZ": "DİNÎ, DİĞER",TRT AVAZ",
     "TRT TÜRK": "TRT TÜRK",
     "KANAL 7 AVRUPA": "KANAL 7 AVRUPA",
     "SHOW TÜRK": "SHOW TÜRK",
