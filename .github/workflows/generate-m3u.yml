@@ -1,0 +1,38 @@
+name: Generate M3U Playlist
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # 每天的 UTC 时间 00:00 执行
+
+jobs:
+  generate_m3u:
+    runs-on: ubuntu-latest  # 使用 Ubuntu 环境来运行工作流
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2  # 检出你的仓库代码
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9  # 设置 Python 版本为 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install requests  # 安装所需的 Python 包
+
+    - name: Run M3U script
+      run: |
+        python Eursee.py  # 执行 Eursee.py 脚本
+
+    - name: Upload generated M3U file
+      uses: actions/upload-artifact@v2  # 使用 GitHub Actions 工具上传构建工件
+      with:
+        name: eur.m3u  # 上传文件的名字
+        path: eur.m3u  # 指定上传的文件路径
