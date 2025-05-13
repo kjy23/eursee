@@ -1,0 +1,38 @@
+name: Generate M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 0:00 执行
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate_m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run Python script to generate M3U
+      run: |
+        python xin.py
+
+    - name: Upload generated M3U file
+      uses: actions/upload-artifact@v2
+      with:
+        name: generated_playlist
+        path: new_playlist.m3u
