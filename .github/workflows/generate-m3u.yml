@@ -30,9 +30,3 @@ jobs:
     - name: Run M3U script
       run: |
         python Eursee.py
-
-    - name: Upload generated M3U file
-      uses: actions/upload-artifact@v3  # 更新为 v3
-      with:
-        name: eur.m3u
-        path: ./eur.m3u
