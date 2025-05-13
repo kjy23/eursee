@@ -32,7 +32,7 @@ jobs:
         python xin.py
 
     - name: Upload generated M3U file
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: generated_playlist
         path: new_playlist.m3u
