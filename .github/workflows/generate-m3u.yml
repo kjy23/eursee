@@ -32,7 +32,7 @@ jobs:
         python Eursee.py  # 执行 Eursee.py 脚本
 
     - name: Upload generated M3U file
-      uses: actions/upload-artifact@v2  # 使用正确的版本
+      uses: actions/upload-artifact@v3  # 使用v3版本
       with:
         name: eur.m3u  # 上传文件的名字
         path: eur.m3u  # 指定上传的文件路径
