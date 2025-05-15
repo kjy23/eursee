@@ -24,22 +24,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Remove old M3U files
+      - name: Remove old M3U files (if any)
         run: |
-          # 删除旧的 all.m3u 和 Eur.m3u 文件（如果存在）
+          # 删除根目录下旧的 all.m3u 和 Eur.m3u 文件（如果存在）
           if git ls-files --error-unmatch all.m3u > /dev/null 2>&1; then
             git rm -f all.m3u
           fi
           if git ls-files --error-unmatch Eur.m3u > /dev/null 2>&1; then
             git rm -f Eur.m3u
           fi
-          git commit -m "Remove old M3U files" || echo "No old files to remove"
+          git commit -m "Remove old M3U files from root directory" || echo "No old files to remove"
 
       - name: Run script
         run: |
           python eursee.py
 
-      - name: Commit and push new playlist
+      - name: Commit and push new M3U files
         run: |
           # 配置 Git 用户信息
           git config --global user.email "youremail@example.com"
