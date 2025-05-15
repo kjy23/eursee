@@ -2,33 +2,44 @@ name: arabsee
 
 on:
   schedule:
-    - cron: "0 0 */3 * *"  # 每三天执行一次
+    - cron: '0 0 */3 * *'  # 每三天执行一次
   push:
     branches:
-      - main  # 每次推送到 main 分支时也会执行
+      - main  # 当推送到 main 分支时触发
 
 jobs:
-  update-m3u:
+  update_m3u:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3  # Checkout 仓库
+      uses: actions/checkout@v2
 
-    - name: Remove old M3U files
-      run: |
-        rm -f ara.m3u  # 删除旧的 ara.m3u 文件
-        rm -f ARAB.m3u  # 删除旧的 ARAB.m3u 文件
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-    - name: Download M3U file and run script
+    - name: Install dependencies
       run: |
-        curl -o ara.m3u https://raw.githubusercontent.com/hemzaberkane/ARAB-IPTV/refs/heads/main/ARABIPTV.m3u  # 下载 M3U 文件
-        python arabsee.py  # 执行 Python 脚本来生成新的 M3U 文件
+        pip install -r requirements.txt
 
-    - name: Commit and push M3U files
+    - name: Run arabsee script to download and update M3U
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add ara.m3u ARAB.m3u  # 添加生成的文件
+        python arabsee.py
+
+    - name: Delete old M3U files from project page
+      run: |
+        rm -f ara.m3u ARAB.m3u
+
+    - name: Pull latest changes from remote
+      run: |
+        git pull origin main
+
+    - name: Commit and push updated M3U files
+      run: |
+        git add ara.m3u ARAB.m3u
+        git config --global user.email "youremail@example.com"
+        git config --global user.name "Your Name"
         git commit -m "Update M3U files"
-        git push  # 推送到 GitHub 仓库
+        git push origin main
