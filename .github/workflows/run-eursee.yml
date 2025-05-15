@@ -30,12 +30,12 @@ jobs:
 
       - name: Check if files exist and remove old ones
         run: |
-          # 检查并删除根目录下的 all.m3u 和 eur.m3u 文件（如果存在）
+          # 检查并删除根目录下的 all.m3u 和 Eur.m3u 文件（如果存在）
           if git ls-files --error-unmatch all.m3u > /dev/null 2>&1; then
             git rm -f all.m3u
           fi
-          if git ls-files --error-unmatch eur.m3u > /dev/null 2>&1; then
-            git rm -f eur.m3u
+          if git ls-files --error-unmatch Eur.m3u > /dev/null 2>&1; then
+            git rm -f Eur.m3u
           fi
           git commit -m "Remove old playlist files" || echo "No old files to remove"
 
@@ -45,21 +45,21 @@ jobs:
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
           
-          # 确保 all.m3u 和 eur.m3u 文件存在后再进行提交
+          # 确保 all.m3u 和 Eur.m3u 文件存在后再进行提交
           if [ -f "all.m3u" ]; then
             git add all.m3u
           else
             echo "all.m3u not found"
           fi
 
-          if [ -f "eur.m3u" ]; then  # 将文件名改为 eur.m3u
-            git add eur.m3u
+          if [ -f "Eur.m3u" ]; then  # 将文件名改为 Eur.m3u
+            git add Eur.m3u
           else
-            echo "eur.m3u not found"
+            echo "Eur.m3u not found"
           fi
 
           # 只有在文件存在的情况下进行提交
-          git commit -m "Update all.m3u and eur.m3u files" || echo "No new files to commit"
+          git commit -m "Update all.m3u and Eur.m3u files" || echo "No new files to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
