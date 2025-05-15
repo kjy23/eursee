@@ -39,15 +39,25 @@ jobs:
         run: |
           python eursee.py
 
+      - name: Check if new files were created
+        run: |
+          if [ ! -f "all.m3u" ]; then
+            echo "Error: all.m3u was not created."
+            exit 1
+          fi
+          if [ ! -f "Eur.m3u" ]; then
+            echo "Error: Eur.m3u was not created."
+            exit 1
+          fi
+
       - name: Commit and push new M3U files
         run: |
-          # 配置 Git 用户信息
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
           
-          # 提交更新后的 all.m3u 和 Eur.m3u 文件
+          # 强制提交，确保没有更改也能推送
           git add all.m3u Eur.m3u
-          git commit -m "Update M3U playlists"
+          git commit -m "Update M3U playlists" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
