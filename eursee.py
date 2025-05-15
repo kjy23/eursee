@@ -4345,7 +4345,7 @@ for match in pattern.finditer(m3u_content):
 new_m3u_content = "\n".join(new_m3u)
 
 # 保存到文件
-new_m3u_path = os.path.join(os.getcwd(), 'new_playlist.m3u')
+new_m3u_path = os.path.join(os.getcwd(), 'Eur.m3u')
 with open(new_m3u_path, 'w', encoding='utf-8') as f:
     f.write(new_m3u_content)
 
