@@ -30,10 +30,14 @@ jobs:
 
       - name: Remove old files from docs (if any)
         run: |
-          # 删除旧的 all.m3u 和 new_playlist.m3u 文件（如果存在）
-          git rm -f docs/all.m3u
-          git rm -f docs/new_playlist.m3u
-          git commit -m "Remove old playlist files"
+          # 检查 docs 文件夹下是否存在 all.m3u 和 new_playlist.m3u 文件
+          if git ls-files --error-unmatch docs/all.m3u > /dev/null 2>&1; then
+            git rm -f docs/all.m3u
+          fi
+          if git ls-files --error-unmatch docs/new_playlist.m3u > /dev/null 2>&1; then
+            git rm -f docs/new_playlist.m3u
+          fi
+          git commit -m "Remove old playlist files" || echo "No old files to remove"
 
       - name: Commit and push new playlist
         run: |
