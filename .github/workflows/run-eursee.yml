@@ -28,20 +28,32 @@ jobs:
         run: |
           python eursee.py
 
+      - name: Move generated files to docs directory
+        run: |
+          mv all.m3u docs/all.m3u
+          mv new_playlist.m3u docs/new_playlist.m3u
+
+      - name: Remove old files from docs (if any)
+        run: |
+          # 检查 docs 文件夹下是否存在 all.m3u 和 new_playlist.m3u 文件
+          if git ls-files --error-unmatch docs/all.m3u > /dev/null 2>&1; then
+            git rm -f docs/all.m3u
+          fi
+          if git ls-files --error-unmatch docs/new_playlist.m3u > /dev/null 2>&1; then
+            git rm -f docs/new_playlist.m3u
+          fi
+          git commit -m "Remove old playlist files" || echo "No old files to remove"
+
       - name: Commit and push new playlist
         run: |
-          # 将 all.m3u 和 new_playlist.m3u 文件推送到仓库
+          # 配置 Git 用户信息
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
-
-          # 将 all.m3u 文件添加到 Git 仓库
+          
+          # 将 all.m3u 和 new_playlist.m3u 文件添加到 Git 仓库
           git add docs/all.m3u
-          git commit -m "Update all.m3u file"
-          git push
-
-          # 将 new_playlist.m3u 文件添加到 Git 仓库
           git add docs/new_playlist.m3u
-          git commit -m "Update new_playlist.m3u file"
+          git commit -m "Update all.m3u and new_playlist.m3u files"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
