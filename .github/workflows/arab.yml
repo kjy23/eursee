@@ -24,21 +24,35 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: Run arabsee script to download and update M3U
-      run: |
-        python arabsee.py
-
     - name: Delete old M3U files from project page
       run: |
         rm -f ara.m3u ARAB.m3u
 
-    - name: Pull latest changes from remote
+    - name: Run arabsee script to download and update M3U
       run: |
-        git pull origin main
+        python arabsee.py
+
+    - name: Check if M3U files exist
+      run: |
+        if [ -f "ara.m3u" ]; then
+          echo "ara.m3u exists"
+        else
+          echo "ara.m3u does not exist"
+        fi
+        if [ -f "ARAB.m3u" ]; then
+          echo "ARAB.m3u exists"
+        else
+          echo "ARAB.m3u does not exist"
+        fi
 
     - name: Commit and push updated M3U files
       run: |
-        git add ara.m3u ARAB.m3u
+        if [ -f "ara.m3u" ]; then
+          git add ara.m3u
+        fi
+        if [ -f "ARAB.m3u" ]; then
+          git add ARAB.m3u
+        fi
         git config --global user.email "youremail@example.com"
         git config --global user.name "Your Name"
         git commit -m "Update M3U files"
