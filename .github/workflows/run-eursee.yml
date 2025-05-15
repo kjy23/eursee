@@ -2,7 +2,7 @@ name: Run Python Script and Push Results
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时运行一次
+    - cron: '0 0 * * *'  # 每天 0 点 0 分执行
   push:
     branches:
       - main
