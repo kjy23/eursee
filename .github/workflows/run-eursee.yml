@@ -2,7 +2,7 @@ name: Run Python Script and Push Results
 
 on:
   schedule:
-    - cron: '0 * * * *' # 每小时运行一次
+    - cron: '0 * * * *'  # 每小时运行一次
   push:
     branches:
       - main
@@ -28,12 +28,23 @@ jobs:
         run: |
           python eursee.py
 
+      - name: Remove old files from docs (if any)
+        run: |
+          # 删除旧的 all.m3u 和 new_playlist.m3u 文件（如果存在）
+          git rm -f docs/all.m3u
+          git rm -f docs/new_playlist.m3u
+          git commit -m "Remove old playlist files"
+
       - name: Commit and push new playlist
         run: |
+          # 配置 Git 用户信息
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
-          git add new_playlist.m3u
-          git commit -m "Update new playlist"
+          
+          # 将 all.m3u 和 new_playlist.m3u 文件添加到 Git 仓库
+          git add docs/all.m3u
+          git add docs/new_playlist.m3u
+          git commit -m "Update all.m3u and new_playlist.m3u files"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
