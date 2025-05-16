@@ -1,4 +1,4 @@
-name: Run Python Script and Push Results
+name: Run Python Scripts and Push Results
 
 on:
   schedule:
@@ -28,44 +28,36 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. 删除旧的 all.m3u 和 eur.m3u 文件
-      - name: Delete old M3U files (if any)
-        run: |
-          # 删除根目录下旧的 all.m3u 和 eur.m3u 文件（如果存在）
-          if git ls-files --error-unmatch all.m3u > /dev/null 2>&1; then
-            git rm -f all.m3u
-          fi
-          if git ls-files --error-unmatch eur.m3u > /dev/null 2>&1; then
-            git rm -f eur.m3u
-          fi
-          git commit -m "Remove old M3U files from root directory" || echo "No old files to remove"
-
-      # 5. 运行 python 脚本
-      - name: Run script
+      # 4. 运行 eursee.py 生成并推送 Eur.m3u 文件
+      - name: Run eursee.py script to generate Eur.m3u
         run: |
           python eursee.py
 
-      # 6. 检查新的 M3U 文件是否生成
-      - name: Check if new files were created
-        run: |
-          if [ ! -f "all.m3u" ]; then
-            echo "Error: all.m3u was not created."
-            exit 1
-          fi
-          if [ ! -f "eur.m3u" ]; then
-            echo "Error: eur.m3u was not created."
-            exit 1
-          fi
-
-      # 7. 提交并推送新的 M3U 文件
-      - name: Commit and push new M3U files
+      # 5. 提交并推送 Eur.m3u 文件到 GitHub
+      - name: Commit and push new Eur.m3u file
         run: |
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
           
-          # 强制提交，确保没有更改也能推送
-          git add all.m3u eur.m3u
-          git commit -m "Update M3U playlists" || echo "No changes to commit"
+          git add Eur.m3u
+          git commit -m "Add new Eur.m3u file"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 6. 运行 eur.py 更新并生成 eur.m3u 文件
+      - name: Run eur.py script to update and generate eur.m3u
+        run: |
+          python eur.py
+
+      # 7. 提交并推送 eur.m3u 文件到 GitHub
+      - name: Commit and push new eur.m3u file
+        run: |
+          git config --global user.email "youremail@example.com"
+          git config --global user.name "Your Name"
+          
+          git add eur.m3u
+          git commit -m "Update eur.m3u file"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
