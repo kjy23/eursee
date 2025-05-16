@@ -1,0 +1,40 @@
+name: Daily M3U Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 00:00 UTC 执行
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update_m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Delete old 247.m3u
+        run: |
+          rm -f 247.m3u
+
+      - name: Download m3u source and run 247.py
+        run: |
+          curl -o daddylive-channels.m3u8 https://iptv-scraper-re.vercel.app/daddylive/channels
+          python3 247.py
+
+      - name: Commit and push updated file
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "🔁 Daily update: 247.m3u"
