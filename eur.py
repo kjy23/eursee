@@ -14,4 +14,4 @@ updated_m3u_content = re.sub(pattern, '', m3u_content)
 with open('eur.m3u', 'w', encoding='utf-8') as file:
     file.write(updated_m3u_content)
 
-print("M3U 文件已更新并保存为 eury.m3u")
+print("M3U 文件已更新并保存为 eur.m3u")
