@@ -10,53 +10,61 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
+      # 1. Checkout 仓库
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2. 设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # 3. 安装依赖
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Remove old M3U files (if any)
+      # 4. 删除旧的 all.m3u 和 eur.m3u 文件
+      - name: Delete old M3U files (if any)
         run: |
-          # 删除根目录下旧的 all.m3u 和 Eur.m3u 文件（如果存在）
+          # 删除根目录下旧的 all.m3u 和 eur.m3u 文件（如果存在）
           if git ls-files --error-unmatch all.m3u > /dev/null 2>&1; then
             git rm -f all.m3u
           fi
-          if git ls-files --error-unmatch Eur.m3u > /dev/null 2>&1; then
-            git rm -f Eur.m3u
+          if git ls-files --error-unmatch eur.m3u > /dev/null 2>&1; then
+            git rm -f eur.m3u
           fi
           git commit -m "Remove old M3U files from root directory" || echo "No old files to remove"
 
+      # 5. 运行 python 脚本
       - name: Run script
         run: |
           python eursee.py
 
+      # 6. 检查新的 M3U 文件是否生成
       - name: Check if new files were created
         run: |
           if [ ! -f "all.m3u" ]; then
             echo "Error: all.m3u was not created."
             exit 1
           fi
-          if [ ! -f "Eur.m3u" ]; then
-            echo "Error: Eur.m3u was not created."
+          if [ ! -f "eur.m3u" ]; then
+            echo "Error: eur.m3u was not created."
             exit 1
           fi
 
+      # 7. 提交并推送新的 M3U 文件
       - name: Commit and push new M3U files
         run: |
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
           
           # 强制提交，确保没有更改也能推送
-          git add all.m3u Eur.m3u
+          git add all.m3u eur.m3u
           git commit -m "Update M3U playlists" || echo "No changes to commit"
           git push
         env:
