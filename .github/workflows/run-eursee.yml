@@ -28,13 +28,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. 运行 eursee.py 生成并推送 Eur.m3u 文件
-      - name: Run eursee.py script to generate Eur.m3u
+      # 4. 运行 eursee.py 生成 Eur.m3u 文件
+      - name: Run eursee.py to generate Eur.m3u
         run: |
           python eursee.py
 
-      # 5. 提交并推送 Eur.m3u 文件到 GitHub
-      - name: Commit and push new Eur.m3u file
+      # 5. 检查 Eur.m3u 是否成功生成
+      - name: Check if Eur.m3u is created
+        run: |
+          if [ ! -f "Eur.m3u" ]; then
+            echo "Error: Eur.m3u was not created."
+            exit 1
+          fi
+
+      # 6. 提交并推送 Eur.m3u 文件到 GitHub
+      - name: Commit and push Eur.m3u file
         run: |
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
@@ -45,13 +53,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 6. 运行 eur.py 更新并生成 eur.m3u 文件
-      - name: Run eur.py script to update and generate eur.m3u
+      # 7. 运行 eur.py 更新 Eur.m3u 文件
+      - name: Run eur.py to update and generate eur.m3u
         run: |
           python eur.py
 
-      # 7. 提交并推送 eur.m3u 文件到 GitHub
-      - name: Commit and push new eur.m3u file
+      # 8. 检查 eur.m3u 是否成功生成
+      - name: Check if eur.m3u is created
+        run: |
+          if [ ! -f "eur.m3u" ]; then
+            echo "Error: eur.m3u was not created."
+            exit 1
+          fi
+
+      # 9. 提交并推送 eur.m3u 文件到 GitHub
+      - name: Commit and push eur.m3u file
         run: |
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
