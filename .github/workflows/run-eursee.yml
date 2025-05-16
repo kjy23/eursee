@@ -1,6 +1,8 @@
 name: Generate and Push M3U Files
 
 on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天的 0 点 0 分执行
   push:
     branches:
       - main
