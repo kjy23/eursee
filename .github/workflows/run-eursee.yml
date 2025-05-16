@@ -1,14 +1,12 @@
-name: Update M3U Files
+name: Generate and Push M3U Files
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # 每天 0 点 0 分执行
   push:
     branches:
       - main
 
 jobs:
-  update_m3u:
+  generate_and_push_m3u_files:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,43 +23,67 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Remove old M3U files (if any)
+      - name: Remove old all.m3u and eur.m3u if they exist
         run: |
+          # 删除旧的 all.m3u 和 eur.m3u 文件（如果存在）
           if git ls-files --error-unmatch all.m3u > /dev/null 2>&1; then
             git rm -f all.m3u
           fi
-          if git ls-files --error-unmatch Eur.m3u > /dev/null 2>&1; then
-            git rm -f Eur.m3u
+          if git ls-files --error-unmatch eur.m3u > /dev/null 2>&1; then
+            git rm -f eur.m3u
           fi
           git commit -m "Remove old M3U files" || echo "No old files to remove"
 
-      - name: Run eursee.py to generate all.m3u and Eur.m3u
+      - name: Generate all.m3u using eursee.py
         run: |
           python eursee.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: false  # Fail if eursee.py doesn't generate all.m3u
 
-      - name: Run eur.py to update eur.m3u
+      - name: Check if all.m3u is generated
         run: |
-          python eur.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Check if eur.m3u was generated
-        run: |
-          if [ ! -f "eur.m3u" ]; then
-            echo "Error: eur.m3u was not created."
+          if [ ! -f "all.m3u" ]; then
+            echo "Error: all.m3u file was not created."
             exit 1
           fi
+          echo "all.m3u file exists."
 
-      - name: Commit and push the updated M3U files
+      - name: Generate Eur.m3u from all.m3u using eursee.py
+        run: |
+          python eursee.py
+        continue-on-error: false  # Fail if eursee.py doesn't generate Eur.m3u
+
+      - name: Check if Eur.m3u is generated
+        run: |
+          if [ ! -f "Eur.m3u" ]; then
+            echo "Error: Eur.m3u file was not created."
+            exit 1
+          fi
+          echo "Eur.m3u file exists."
+
+      - name: Run eur.py to generate eur.m3u
+        run: |
+          python eur.py
+        continue-on-error: false  # Fail if eur.py doesn't generate eur.m3u
+
+      - name: Check if eur.m3u is generated
+        run: |
+          if [ ! -f "eur.m3u" ]; then
+            echo "Error: eur.m3u file was not created."
+            exit 1
+          fi
+          echo "eur.m3u file exists."
+
+      - name: Add and commit all.m3u and eur.m3u
         run: |
           git config --global user.email "youremail@example.com"
           git config --global user.name "Your Name"
           
-          # Add new M3U files and commit
-          git add all.m3u Eur.m3u eur.m3u
-          git commit -m "Update M3U files" || echo "No changes to commit"
+          # Add all.m3u and eur.m3u files
+          git add all.m3u eur.m3u
+          git commit -m "Update all.m3u and eur.m3u files" || echo "No changes to commit"
+
+      - name: Push all.m3u and eur.m3u to GitHub
+        run: |
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
