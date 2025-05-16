@@ -47,13 +47,20 @@ jobs:
 
     - name: Commit and push updated M3U files
       run: |
+        # 检查文件是否存在并是否有变化
         if [ -f "ara.m3u" ]; then
           git add ara.m3u
         fi
         if [ -f "ARAB.m3u" ]; then
           git add ARAB.m3u
         fi
-        git config --global user.email "youremail@example.com"
-        git config --global user.name "Your Name"
-        git commit -m "Update M3U files"
-        git push origin main
+
+        # 如果有文件被添加，才执行 commit 和 push
+        if git diff --cached --exit-code > /dev/null; then
+          echo "No changes detected, skipping commit."
+        else
+          git config --global user.email "youremail@example.com"
+          git config --global user.name "Your Name"
+          git commit -m "Update M3U files"
+          git push origin main
+        fi
