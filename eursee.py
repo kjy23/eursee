@@ -12,7 +12,7 @@ subprocess.run(["curl", "-o", save_path, url])
 
 print(f"M3U 文件已下载并保存为 {save_path}")
 
-# 假设 STATIC_TV_NAMES 和 STATIC_CATEGORIES 字典已经存在
+# STATIC_TV_NAMES 字典，替换原频道名称为标准名称
 STATIC_TV_NAMES = {
     "BFM TV": "BFM TV",
     "CNEWS": "CNEWS",
@@ -4941,9 +4941,7 @@ STATIC_LOGOS = {
     "DELUXE MUSIC Lounge Extra": "https://i.ibb.co/pKt53kX/dl1.png",
 }
 
-
-
-# 读取 M3U 文件内容
+# 读取下载的 M3U 文件内容
 with open(save_path, 'r', encoding='utf-8') as file:
     m3u_content = file.read()
 
@@ -4999,3 +4997,14 @@ with open(new_m3u_path, 'w', encoding='utf-8') as f:
     f.write(new_m3u_content)
 
 print(f"新生成的 M3U 文件已保存为 {new_m3u_path}")
+
+# 调用 eur.py 更新生成的 Eur.m3u
+subprocess.run(["python", "eur.py"])
+
+# 删除原有的 Eur.m3u 文件
+os.remove('Eur.m3u')
+
+# 推送更新后的文件到 GitHub
+subprocess.run(["git", "add", "eur.m3u"])
+subprocess.run(["git", "commit", "-m", "Update eur.m3u"])
+subprocess.run(["git", "push"])
