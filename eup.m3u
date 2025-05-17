@@ -47,12 +47,12 @@ http://ktv.im:8080/live/William287263/Davidas7262636/51593.ts
 #EXTINF:-1 tvg-id="OSN COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNCOMEDY.png" group-title="🇸🇦沙特阿拉伯", OSN COMEDY
 http://mytv-extra.com:88/live/1827214806/9371309264/378779.ts 
 
-#EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://mchoumi.github.io/LOGOs/HBOMax.png" group-title="🇺🇸美国+", HBO Max
+#EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://mchoumi.github.io/LOGOs/HBOMax.png" group-title="🇺🇸 美国+", HBO Max
 http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
-#EXTINF:-1 tvg-id="HBO TOP10" tvg-logo="https://mchoumi.github.io/LOGOs/HBOTOP10.png" group-title="🇺🇸美国+", HBO TOP10
+#EXTINF:-1 tvg-id="HBO TOP10" tvg-logo="https://mchoumi.github.io/LOGOs/HBOTOP10.png" group-title="🇺🇸 美国+", HBO TOP10
 http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446144
 
-#EXTINF:-1 tvg-id="STARZPLAY Action" tvg-logo="https://mchoumi.github.io/LOGOs/STARZPLAYAction.png" group-title="🇺🇸美国+", STARZPLAY Action
+#EXTINF:-1 tvg-id="STARZPLAY Action" tvg-logo="https://mchoumi.github.io/LOGOs/STARZPLAYAction.png" group-title="🇺🇸 美国+", STARZPLAY Action
 http://ktv.im:8080/live/William287263/Davidas7262636/51334.ts 
 
 #EXTINF:-1 tvg-id="Canal+ Box Office2" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice2.png" group-title="🇫🇷法兰西公共", Canal+ Box Office2
@@ -203,7 +203,7 @@ http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228301.ts
 http://ktv.im:8080/live/William287263/Davidas7262636/111048.ts 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
 http://ktv.im:8080/live/William287263/Davidas7262636/112483.ts 
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸美国+", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸 美国+", Discovery Channel
 http://ktv.im:8080/live/William287263/Davidas7262636/112527.ts 
 #EXTINF:-1 tvg-id="Science & Vie" tvg-logo="https://mchoumi.github.io/LOGOs/Science&Vie.png" group-title="🇫🇷法兰西公共", Science & Vie
 http://mytv-extra.com:88/live/1827214806/9371309264/994.ts 
@@ -238,7 +238,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
 #EXTINF:-1 tvg-id="Sky Cinema Animation" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaAnimation.png" group-title="🇬🇧英格兰+", Sky Cinema Animation
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47814.ts 
-#EXTINF:-1 tvg-id="Disney+ 2" tvg-logo="https://mchoumi.github.io/LOGOs/Disney+2.png" group-title="🇺🇸美国++", Disney+ 2
+#EXTINF:-1 tvg-id="Disney+ 2" tvg-logo="https://mchoumi.github.io/LOGOs/Disney+2.png" group-title="🇺🇸 美国+", Disney+ 2
 http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts 
 #EXTINF:-1 tvg-id="beIN MOVIES HD 4 FAMILY" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD4FAMILY.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 4 FAMILY
 http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
