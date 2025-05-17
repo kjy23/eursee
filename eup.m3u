@@ -176,7 +176,7 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="BBC Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/BBCArabic.png" group-title="🇬🇧英格兰+", BBC Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8 
-#EXTINF:-1 tvg-id="DW Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png" group-title="🇩🇪德国", DW Arabic
+#EXTINF:-1 tvg-id="DW Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png" group-title="🇩🇪德意志", DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8 
 #EXTINF:-1 tvg-id="RT Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png" group-title="🇷🇺俄罗斯", RT Arabic
 http://rt-arab.secure.footprint.net:80/1104.m3u8 
