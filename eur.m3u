@@ -3369,9 +3369,9 @@ https://raw.githubusercontent.com/MassinDV/Youtube-arabic-channels/main/live/ch3
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="🇮🇶伊拉克" tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png", INEWS IQ
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇧英国" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA
+#EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 group-title="🇬🇧英国" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA
+#EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/dGjByMq/Sky-News-Arabia.png", SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -3379,13 +3379,13 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg", CNBC ARABIA
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="🇩🇪德国" tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png", DW ARABIC
+#EXTINF:-1 group-title="🇩🇪德意志" tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png", DW ARABIC
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="🇨🇳中国" tvg-logo="https://i.ibb.co/njBtvts/cgtnar.png", CGTN ARABIC
+#EXTINF:-1 group-title="🇨🇳央视" tvg-logo="https://i.ibb.co/njBtvts/cgtnar.png", CGTN ARABIC
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS AR
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 group-title="🇫🇷法国" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 AR
+#EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其" tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png", TRT ARABIYA
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -3503,7 +3503,7 @@ https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Z1TqPB8R/suboro.jpg", SUBORO TV
 https://suborotv.hibridcdn.net/suborotv/suborotv_abr/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸美国" tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png", AL HURRA 
+#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/mNnyV1K/alhurra.png", AL HURRA 
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png", ASHARQ NEWS 
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
@@ -3525,19 +3525,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
 https://stream.ads.ottera.tv/cl/250113cu2707e7g596f0blb9c0/1280x720_900000_1_f.m3u8?i=475_5616
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/s107QNv/araby2.png", AL ARABY 2 
 https://new.cache-stream.workers.dev/stream/UCuCtlmcyOPNqdBf_FfrS7kg/live.m3u8
-#EXTINF:-1 group-title="🇫🇷法国" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 AR 
+#EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 AR 
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="🇬🇧英国" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA 
+#EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA 
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1 group-title="🇬🇧英国" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA 
+#EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png", BBC NEWS ARABIA 
 https://new.cache-stream.workers.dev/stream/UCelk6aHijZq-GJBBB9YpReA/live.m3u8
 #EXTINF:-1 group-title="🇵🇸巴勒斯坦" tvg-logo="https://i.ibb.co/9nsvXcf/maannews.png", MAAN NEWS 
 https://htvmada.mada.ps:4443/maannews/index.m3u8
-#EXTINF:-1 group-title="🇺🇸美国" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK AR 
+#EXTINF:-1 group-title="🇺🇸美国+" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK AR 
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 group-title="🇺🇸美国" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK AR 
+#EXTINF:-1 group-title="🇺🇸美国+" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK AR 
 https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 group-title="🇫🇷法国" tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg", GULLI ARABI 
+#EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/PjCYRWx/gulliar.jpg", GULLI ARABI 
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png", MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
@@ -4597,7 +4597,7 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png", TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇵🇱波兰新闻" tvg-logo="https://i.ibb.co/NrN5Gy2/tvpworld.png", TVP WORLD
+#EXTINF:-1 group-title="🇵🇱波兰" tvg-logo="https://i.ibb.co/NrN5Gy2/tvpworld.png", TVP WORLD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
