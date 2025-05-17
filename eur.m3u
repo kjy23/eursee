@@ -2759,7 +2759,7 @@ https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸美国新闻" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS EN
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS AR
+#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS AR
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/MG43H4H/hala.png", PANET 30 HALA هلا
 https://stream.panet.com/edge/halaTV/playlist.m3u8
@@ -3383,7 +3383,7 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="🇨🇳中国" tvg-logo="https://i.ibb.co/njBtvts/cgtnar.png", CGTN ARABIC
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS AR
+#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS AR
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法国" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
@@ -4599,15 +4599,15 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇵🇱波兰新闻" tvg-logo="https://i.ibb.co/NrN5Gy2/tvpworld.png", TVP WORLD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://live-hls-web-aje.getaj.net/AJE/master.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="🇸🇦中东阿拉伯" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇳央视" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png", CGTN NEWS
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
