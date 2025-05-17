@@ -1,0 +1,40 @@
+name: eup
+
+on:
+  schedule:
+    # 每天自动执行一次
+    - cron: '0 0 * * *' # 这个是 UTC 时间，表示每天 00:00 执行，调整时区可以修改此部分
+  workflow_dispatch: # 也可以手动触发执行
+
+jobs:
+  automate-ipv:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run eup.py script to generate M3U
+      run: |
+        python eup.py
+
+    - name: Delete old IPTVara.m3u and eup.m3u files
+      run: |
+        rm -f IPTVara.m3u eup.m3u
+
+    - name: Commit and push new M3U files
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add IPTVara.m3u eup.m3u
+        git commit -m "Update IPTVara.m3u and eup.m3u"
+        git push origin main
