@@ -270,7 +270,7 @@ STATIC_CATEGORIES = {
     "Al Arabiya": "🇸🇦沙特阿拉伯",
     "BBC Arabic": "🇬🇧英格兰+",
     "DW Arabic": "🇩🇪德意志",
-    "RT Arabic": "🇷🇺俄罗斯",
+    "RT Arabic": "🇷🇺俄罗斯新闻",
     "TRT Arabi": "🇹🇷土耳其",
     "TF1": "🇫🇷法兰西公共",
     "FRANCE 2": "🇫🇷法兰西公共",
