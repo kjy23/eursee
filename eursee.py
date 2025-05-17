@@ -2794,7 +2794,7 @@ STATIC_CATEGORIES = {
     "ROYA TV (backup)": "🇯🇴约旦",
     "MTV LBN": "🇱🇧黎巴嫩",
     "ONE TV LBN": "🇱🇧黎巴嫩",
-    "LBC LBN [geoblocked]": "🇱🇧黎巴嫩"
+    "LBC LBN [geoblocked]": "🇱🇧黎巴嫩",
     "OTV LBN [brokenlink]": "🇱🇧黎巴嫩",
     "DUBAI TV": "🇦🇪阿联酋",
     "DUBAI ONE": "🇦🇪阿联酋",
