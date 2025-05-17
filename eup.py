@@ -269,7 +269,7 @@ STATIC_CATEGORIES = {
     "Skynews Arabia": "🇸🇦沙特阿拉伯",
     "Al Arabiya": "🇸🇦沙特阿拉伯",
     "BBC Arabic": "🇬🇧英格兰+",
-    "DW Arabic": "🇩🇪德国",
+    "DW Arabic": "🇩🇪德意志",
     "RT Arabic": "🇷🇺俄罗斯",
     "TRT Arabi": "🇹🇷土耳其",
     "TF1": "🇫🇷法兰西公共",
