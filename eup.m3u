@@ -1,0 +1,371 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.open-epg.com/files/uae2.xml" 
+#EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
+http://mytv-extra.com:88/live/1827214806/9371309264/166556.ts
+#EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
+http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=15074&extension=ts 
+#EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
+http://goldip.xyz/live/iptvsd2725/2725dapter/63591.ts 
+#EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMovies.png" group-title="🇸🇦沙特阿拉伯", MBC Movies
+https://shls-live-enc.edgenextcdn.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index_2.m3u8 
+#EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMoviesAction.png" group-title="🇸🇦沙特阿拉伯", MBC Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8 
+#EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMoviesThriller.png" group-title="🇸🇦沙特阿拉伯", MBC Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
+
+#EXTINF:-1 tvg-id="Canal+ Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Cinema.png" group-title="🇫🇷法兰西公共", Canal+ Cinema
+http://ktv.im:8080/live/William287263/Davidas7262636/112473.ts
+#EXTINF:-1 tvg-id="Canal+ Box Office" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice.png" group-title="🇫🇷法兰西公共", Canal+ Box Office
+http://mag.king-4k.cc:80/15194A5077612A8/593A5512AA56568/1459825 
+#EXTINF:-1 tvg-id="Canal+ Grand Ecran" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+GrandEcran.png" group-title="🇫🇷法兰西公共", Canal+ Grand Ecran
+http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=274712&extension=ts&play_token=IOPGmx2hiD
+#EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
+http://ktv.im:8080/live/William287263/Davidas7262636/112469.ts 
+
+#EXTINF:-1 tvg-id="SkyCinema Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaPremiere.png" group-title="🇬🇧英格兰+", SkyCinema Premiere
+http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
+#EXTINF:-1 tvg-id="SkyCinema Action" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaAction.png" group-title="🇬🇧英格兰+", SkyCinema Action
+http://kstv.us:8080/live/yb4yWv90vN/1007275994/47813.ts
+#EXTINF:-1 tvg-id="SkyStore Premier 1" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier1.png" group-title="🇬🇧英格兰+", SkyStore Premier 1
+http://mytv-extra.com:88/live/1827214806/9371309264/401534717.ts 
+#EXTINF:-1 tvg-id="SkyStore Premier 2" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier2.png" group-title="🇬🇧英格兰+", SkyStore Premier 2
+http://mytv-extra.com:88/live/1827214806/9371309264/401534716.ts 
+#EXTINF:-1 tvg-id="SkyStore Premier 3" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier3.png" group-title="🇬🇧英格兰+", SkyStore Premier 3
+http://mytv-extra.com:88/live/1827214806/9371309264/401534715.ts 
+#EXTINF:-1 tvg-id="SkyStore Premier 4" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier4.png" group-title="🇬🇧英格兰+", SkyStore Premier 4
+http://mytv-extra.com:88/live/1827214806/9371309264/401534714.ts 
+#EXTINF:-1 tvg-id="SkyStore Premier 5" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier5.png" group-title="🇬🇧英格兰+", SkyStore Premier 5
+http://mytv-extra.com:88/live/1827214806/9371309264/401534713.ts 
+
+#EXTINF:-1 tvg-id="OSN Movies Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMoviesFamily.png" group-title="🇸🇦沙特阿拉伯", OSN Movies Family
+http://sky-tv.org:88/live/tLfBuSwvEe6VKBV/KHrq9QdlISVEjsZ/394059.ts 
+#EXTINF:-1 tvg-id="OSN MOVIES Hollywood HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESHollywoodHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES Hollywood HD
+http://ktv.im:8080/live/William287263/Davidas7262636/51594.ts 
+#EXTINF:-1 tvg-id="OSN MOVIES ACTION HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESACTIONHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES ACTION HD
+http://ktv.im:8080/live/William287263/Davidas7262636/51592.ts 
+#EXTINF:-1 tvg-id="OSN MOVIES PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESPREMIERE.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES PREMIERE
+http://ktv.im:8080/live/William287263/Davidas7262636/51593.ts 
+#EXTINF:-1 tvg-id="OSN COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNCOMEDY.png" group-title="🇸🇦沙特阿拉伯", OSN COMEDY
+http://mytv-extra.com:88/live/1827214806/9371309264/378779.ts 
+
+#EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://mchoumi.github.io/LOGOs/HBOMax.png" group-title="🇺🇸美国+", HBO Max
+http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
+#EXTINF:-1 tvg-id="HBO TOP10" tvg-logo="https://mchoumi.github.io/LOGOs/HBOTOP10.png" group-title="🇺🇸美国+", HBO TOP10
+http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446144
+
+#EXTINF:-1 tvg-id="STARZPLAY Action" tvg-logo="https://mchoumi.github.io/LOGOs/STARZPLAYAction.png" group-title="🇺🇸美国+", STARZPLAY Action
+http://ktv.im:8080/live/William287263/Davidas7262636/51334.ts 
+
+#EXTINF:-1 tvg-id="Canal+ Box Office2" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice2.png" group-title="🇫🇷法兰西公共", Canal+ Box Office2
+http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:07:DB:E9&stream=196120&extension=ts&play_token=7OmKZgZGEJ 
+#EXTINF:-1 tvg-id="Canal+ Box Office3" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice3.png" group-title="🇫🇷法兰西公共", Canal+ Box Office3
+http://one.dream4ktv.biz:8080/play/live.php?mac=00:1A:79:07:DB:E9&stream=196125&extension=ts&play_token=nT3cMWrsrk 
+#EXTINF:-1 tvg-id="Canal+ Box Office4" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice4.png" group-title="🇫🇷法兰西公共", Canal+ Box Office4
+http://one.dream4ktv.biz:8080/play/live.php?mac=00:1A:79:07:DB:E9&stream=196153&extension=ts&play_token=GGm7hRLBQw 
+#EXTINF:-1 tvg-id="Canal+ Box Office5" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice5.png" group-title="🇫🇷法兰西公共", Canal+ Box Office5
+http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:07:DB:E9&stream=196122&extension=ts&play_token=7lJfBRiUJx 
+#EXTINF:-1 tvg-id="Canal+ Box Office6" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice6.png" group-title="🇫🇷法兰西公共", Canal+ Box Office6
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483877 
+#EXTINF:-1 tvg-id="Canal+ Box Office7" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice7.png" group-title="🇫🇷法兰西公共", Canal+ Box Office7
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483878 
+#EXTINF:-1 tvg-id="Canal+ Box Office8" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice8.png" group-title="🇫🇷法兰西公共", Canal+ Box Office8
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483879 
+#EXTINF:-1 tvg-id="Canal+ Box Office9" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice9.png" group-title="🇫🇷法兰西公共", Canal+ Box Office9
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483880 
+#EXTINF:-1 tvg-id="Canal+ Box Office10" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice10.png" group-title="🇫🇷法兰西公共", Canal+ Box Office10
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483881 
+#EXTINF:-1 tvg-id="Canal+ Box Office11" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice11.png" group-title="🇫🇷法兰西公共", Canal+ Box Office11
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483882 
+#EXTINF:-1 tvg-id="Canal+ Box Office12" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice12.png" group-title="🇫🇷法兰西公共", Canal+ Box Office12
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483883 
+#EXTINF:-1 tvg-id="Canal+ Box Office13" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice13.png" group-title="🇫🇷法兰西公共", Canal+ Box Office13
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483884 
+#EXTINF:-1 tvg-id="Canal+ Box Office14" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice14.png" group-title="🇫🇷法兰西公共", Canal+ Box Office14
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483885 
+#EXTINF:-1 tvg-id="Canal+ Box Office15" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice15.png" group-title="🇫🇷法兰西公共", Canal+ Box Office15
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483886 
+#EXTINF:-1 tvg-id="Canal+ Box Office16" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice16.png" group-title="🇫🇷法兰西公共", Canal+ Box Office16
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483887 
+#EXTINF:-1 tvg-id="Canal+ Box Office17" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice17.png" group-title="🇫🇷法兰西公共", Canal+ Box Office17
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483888 
+#EXTINF:-1 tvg-id="Canal+ Box Office18" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice18.png" group-title="🇫🇷法兰西公共", Canal+ Box Office18
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483889 
+#EXTINF:-1 tvg-id="Canal+ Box Office19" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice19.png" group-title="🇫🇷法兰西公共", Canal+ Box Office19
+http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/1483890
+
+#EXTINF:-1 tvg-id="beIN MOVIES HD 1 PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD1PREMIERE.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 1 PREMIERE
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128 
+#EXTINF:-1 tvg-id="beIN MOVIES HD 2 ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD2ACTION.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 2 ACTION
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2127 
+
+#EXTINF:-1 tvg-id="Dubai One" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="🇦🇪阿联酋", Dubai One
+http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2191.ts 
+#EXTINF:-1 tvg-id="OSN YAHALA CINEMA HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYAHALACINEMAHD.png" group-title="🇸🇦沙特阿拉伯", OSN YAHALA CINEMA HD
+http://ktv.im:8080/live/William287263/Davidas7262636/51611.ts 
+#EXTINF:-1 tvg-id="OSN YAHALA Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYAHALAAflam.png" group-title="🇸🇦沙特阿拉伯", OSN YAHALA Aflam
+http://ktv.im:8080/live/William287263/Davidas7262636/51602.ts 
+
+#EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8 
+#EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlEmaratTV.png" group-title="🇦🇪阿联酋", Al Emarat TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8 
+#EXTINF:-1 tvg-id="Dubai TV" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="🇦🇪阿联酋", Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8 
+#EXTINF:-1 tvg-id="Sama Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.png" group-title="🇦🇪阿联酋", Sama Dubai
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8 
+#EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="🇦🇪阿联酋", Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="Sharjah 2" tvg-logo="https://mchoumi.github.io/LOGOs/Sharjah2.png" group-title="🇦🇪阿联酋", Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="Noor Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/NoorDubai.png" group-title="🇦🇪阿联酋", Noor Dubai
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://mchoumi.github.io/LOGOs/MBC1.png" group-title="🇸🇦沙特阿拉伯", MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8 
+#EXTINF:-1 tvg-id="MBC 1 KSA" tvg-logo="https://mchoumi.github.io/LOGOs/MBC1KSA.png" group-title="🇸🇦沙特阿拉伯", MBC 1 KSA
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8 
+#EXTINF:-1 tvg-id="MBC 4" tvg-logo="https://mchoumi.github.io/LOGOs/MBC4.png" group-title="🇸🇦沙特阿拉伯", MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8 
+#EXTINF:-1 tvg-id="MBC 5" tvg-logo="https://mchoumi.github.io/LOGOs/MBC5.png" group-title="🇸🇦沙特阿拉伯", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8 
+#EXTINF:-1 tvg-id="MBC Drama" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="🇸🇦沙特阿拉伯", MBC Drama
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8 
+#EXTINF:-1 tvg-id="MBC Masr 1" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr1.png" group-title="🇪🇬埃及", MBC Masr 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 
+#EXTINF:-1 tvg-id="MBC Masr 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="🇪🇬埃及", MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8 
+#EXTINF:-1 tvg-id="MBC Plus Drama" tvg-logo="https://mchoumi.github.io/LOGOs/MBCPlusDrama.png" group-title="🇸🇦沙特阿拉伯", MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8 
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAbuDhabi.png" group-title="🇦🇪阿联酋", National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/AlJazeeraDocumentary.png" group-title="🇶🇦卡塔尔", Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8 
+#EXTINF:-1 tvg-id="Alaraby TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlarabyTV.png" group-title="🇸🇦沙特阿拉伯", Alaraby TV
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8 
+#EXTINF:-1 tvg-id="Alaraby TV 2" tvg-logo="https://mchoumi.github.io/LOGOs/AlarabyTV2.png" group-title="🇸🇦沙特阿拉伯", Alaraby TV 2
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8 
+#EXTINF:-1 tvg-id="FATAFEAT HD" tvg-logo="https://mchoumi.github.io/LOGOs/FATAFEATHD.png" group-title="🇸🇦沙特阿拉伯", FATAFEAT HD
+http://mytv-extra.com:88/live/1827214806/9371309264/6384.ts 
+#EXTINF:-1 tvg-id="Samira TV" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.png" group-title="🇩🇿阿尔及利亚", Samira TV
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228075.ts 
+#EXTINF:-1 tvg-id="Echorouk TV" tvg-logo="https://mchoumi.github.io/LOGOs/EchoroukTV.png" group-title="🇩🇿阿尔及利亚", Echorouk TV
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/226051.ts 
+#EXTINF:-1 tvg-id="Echorouk News" tvg-logo="https://mchoumi.github.io/LOGOs/EchoroukNews.png" group-title="🇩🇿阿尔及利亚", Echorouk News
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/218226.ts 
+#EXTINF:-1 tvg-id="El Bilad" tvg-logo="https://mchoumi.github.io/LOGOs/ElBilad.png" group-title="🇩🇿阿尔及利亚", El Bilad
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/218227.ts 
+#EXTINF:-1 tvg-id="Ennahar TV" tvg-logo="https://mchoumi.github.io/LOGOs/EnnaharTV.png" group-title="🇩🇿阿尔及利亚", Ennahar TV
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/226050.ts 
+#EXTINF:-1 tvg-id="Algerie TV1" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV1.png" group-title="🇩🇿阿尔及利亚", Algerie TV1
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228076.ts 
+#EXTINF:-1 tvg-id="Algerie TV2" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV2.png" group-title="🇩🇿阿尔及利亚", Algerie TV2
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/219539.ts 
+#EXTINF:-1 tvg-id="Algerie TV3" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV3.png" group-title="🇩🇿阿尔及利亚", Algerie TV3
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/219540.ts 
+#EXTINF:-1 tvg-id="Algerie TV6" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV6.png" group-title="🇩🇿阿尔及利亚", Algerie TV6
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/213441.ts 
+#EXTINF:-1 tvg-id="Nature Time" tvg-logo="https://mchoumi.github.io/LOGOs/NatureTime.png" group-title="🇶🇦卡塔尔", Nature Time
+http://ktv.im:8080/live/William287263/Davidas7262636/51305.ts 
+#EXTINF:-1 tvg-id="Asharq Discovery" tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDiscovery.png" group-title="🇶🇦卡塔尔", Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8 
+#EXTINF:-1 tvg-id="Asharq Documentary" tvg-logo="https://mchoumi.github.io/LOGOs/AsharqDocumentary.png" group-title="🇶🇦卡塔尔", Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8 
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://mchoumi.github.io/LOGOs/AlJazeera.png" group-title="🇶🇦卡塔尔", Al Jazeera
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8 
+#EXTINF:-1 tvg-id="Skynews Arabia" tvg-logo="https://mchoumi.github.io/LOGOs/SkynewsArabia.png" group-title="🇸🇦沙特阿拉伯", Skynews Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8 
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-logo="https://mchoumi.github.io/LOGOs/AlArabiya.png" group-title="🇸🇦沙特阿拉伯", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="BBC Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/BBCArabic.png" group-title="🇬🇧英格兰+", BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8 
+#EXTINF:-1 tvg-id="DW Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/DWArabic.png" group-title="🇩🇪德国", DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8 
+#EXTINF:-1 tvg-id="RT Arabic" tvg-logo="https://mchoumi.github.io/LOGOs/RTArabic.png" group-title="🇷🇺俄罗斯", RT Arabic
+http://rt-arab.secure.footprint.net:80/1104.m3u8 
+#EXTINF:-1 tvg-id="TRT Arabi" tvg-logo="https://mchoumi.github.io/LOGOs/TRTArabi.png" group-title="🇹🇷土耳其", TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8 
+
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/192831.ts
+#EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202465.ts
+#EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202466.ts 
+#EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202467.ts
+#EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png" group-title="🇫🇷法兰西公共", FRANCE 5
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202468.ts
+#EXTINF:-1 tvg-id="TV5 Style HD" tvg-logo="https://mchoumi.github.io/LOGOs/TV5StyleHD.png" group-title="🇫🇷法兰西公共", TV5 Style HD
+http://mag.king-4k.cc:80/15194A5077612A8/593A5512AA56568/118334
+#EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Style.png" group-title="🇫🇷法兰西公共", TV5 Style
+http://mytv-extra.com:88/live/1827214806/9371309264/400270486.ts 
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
+http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228301.ts 
+#EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
+http://ktv.im:8080/live/William287263/Davidas7262636/111048.ts 
+#EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
+http://ktv.im:8080/live/William287263/Davidas7262636/112483.ts 
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸美国+", Discovery Channel
+http://ktv.im:8080/live/William287263/Davidas7262636/112527.ts 
+#EXTINF:-1 tvg-id="Science & Vie" tvg-logo="https://mchoumi.github.io/LOGOs/Science&Vie.png" group-title="🇫🇷法兰西公共", Science & Vie
+http://mytv-extra.com:88/live/1827214806/9371309264/994.ts 
+#EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
+http://xt2.xyz:19741/live/7148521977/0601202300/203734.ts 
+#EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
+http://cod.kim:19741/live/742783959639/103915434161/203734.ts 
+#EXTINF:-1 tvg-id="Franceinfo" tvg-logo="https://mchoumi.github.io/LOGOs/Franceinfo.png" group-title="🇫🇷法兰西公共", Franceinfo
+http://mytv-extra.com:88/live/1827214806/9371309264/748.ts 
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://mchoumi.github.io/LOGOs/Euronews.png" group-title="🇪🇺法兰西新闻", Euronews
+http://ktv.im:8080/live/William287263/Davidas7262636/112668.ts 
+#EXTINF:-1 tvg-id="CNews" tvg-logo="https://mchoumi.github.io/LOGOs/CNews.png" group-title="🇫🇷法兰西公共", CNews
+http://mytv-extra.com:88/live/1827214806/9371309264/756.ts 
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png" group-title="🇫🇷法兰西公共", France 24
+http://mytv-extra.com:88/live/1827214806/9371309264/755.ts
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
+http://mytv-extra.com:88/live/1827214806/9371309264/533.ts 
+#EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
+http://mytv-extra.com:88/live/1827214806/9371309264/535.ts 
+#EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
+http://mytv-extra.com:88/live/1827214806/9371309264/536.ts 
+#EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
+http://mytv-extra.com:88/live/1827214806/9371309264/538.ts 
+#EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png" group-title="🇫🇷法兰西公共", FRANCE 5
+http://mytv-extra.com:88/live/1827214806/9371309264/539.ts
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
+http://mytv-extra.com:88/live/1827214806/9371309264/570.ts
+
+#EXTINF:-1 tvg-id="Majid TV" tvg-logo="https://mchoumi.github.io/LOGOs/MajidTV.png" group-title="🇸🇦沙特阿拉伯", Majid TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8 
+#EXTINF:-1 tvg-id="Jeem TV" tvg-logo="https://mchoumi.github.io/LOGOs/JeemTV.png" group-title="🇸🇦沙特阿拉伯", Jeem TV
+http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
+#EXTINF:-1 tvg-id="Sky Cinema Animation" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaAnimation.png" group-title="🇬🇧英格兰+", Sky Cinema Animation
+http://kstv.us:8080/live/yb4yWv90vN/1007275994/47814.ts 
+#EXTINF:-1 tvg-id="Disney+ 2" tvg-logo="https://mchoumi.github.io/LOGOs/Disney+2.png" group-title="🇺🇸美国++", Disney+ 2
+http://goldip.xyz/live/iptvsd2725/2725dapter/83029.ts 
+#EXTINF:-1 tvg-id="beIN MOVIES HD 4 FAMILY" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD4FAMILY.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 4 FAMILY
+http://cod.kim:19741/live/742783959639/103915434161/140057.ts 
+#EXTINF:-1 tvg-id="OSN Kids" tvg-logo="https://mchoumi.github.io/LOGOs/OSNKids.png" group-title="🇦🇪阿联酋", OSN Kids
+http://ktv.im:8080/live/William287263/Davidas7262636/51597.ts 
+#EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://mchoumi.github.io/LOGOs/MBC3.png" group-title="🇸🇦沙特阿拉伯", MBC 3
+http://goldip.xyz/live/iptvsd2725/2725dapter/74937.ts 
+#EXTINF:-1 tvg-id="Cartoon Network Arabia" tvg-logo="https://mchoumi.github.io/LOGOs/CartoonNetworkArabia.png" group-title="🇸🇦沙特阿拉伯", Cartoon Network Arabia
+http://goldip.xyz/live/iptvsd2725/2725dapter/74863.ts 
+#EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
+http://tit.ipsh.tv:80/play/live.php?mac=00:1A:79:52:8A:D2&stream=845447&extension=ts&play_token=XVfsRlx8N9
+#EXTINF:-1 tvg-id="Spacetoon" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="🇸🇦沙特阿拉伯", Spacetoon
+http://ktv.im:8080/live/William287263/Davidas7262636/408044.ts 
+
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49598.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49599.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49600.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49601.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 5 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS5HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49602.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 6 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS6HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49603.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 7 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49604.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 HD
+http://ktv.im:8080/live/William287263/Davidas7262636/49605.ts 
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897661 
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897662 
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS3FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897663 
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897664 
+#EXTINF:-1 tvg-id="BEIN SPORTS 5 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS5FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897665 
+#EXTINF:-1 tvg-id="BEIN SPORTS 6 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS6FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897666 
+#EXTINF:-1 tvg-id="BEIN SPORTS 7 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897667 
+#EXTINF:-1 tvg-id="BEIN SPORTS 8 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 FHD
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897668 
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS14K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968402 
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS24K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968403 
+#EXTINF:-1 tvg-id="BEIN SPORTS  2 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS24K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS  2 4K
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30757.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS34K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968404 
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS44K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968405 
+#EXTINF:-1 tvg-id="BEIN SPORTS 5 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS54K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968406 
+#EXTINF:-1 tvg-id="BEIN SPORTS 6 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS64K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968407 
+#EXTINF:-1 tvg-id="BEIN SPORTS 7 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS74K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968408 
+#EXTINF:-1 tvg-id="BEIN SPORTS 8 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS84K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 4K
+http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968409 
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237137.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237138.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS3HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237143.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237139.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 5 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS5HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237140.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 6 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS6HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237141.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 7 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237142.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 8 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 HEVC
+http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237134.ts 
+
+#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSXTRA1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS XTRA 1 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330446&extension=ts&play_token=bV3oBWvGAO 
+#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSXTRA2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS XTRA 2 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330447&extension=ts&play_token=iA2NeL4jUS 
+#EXTINF:-1 tvg-id="BEIN SPORTS XTRA 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSXTRA3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS XTRA 3 HD
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330448&extension=ts&play_token=iA2NeL4jUS 
+#EXTINF:-1 tvg-id="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSENGLISH1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS ENGLISH 1 HD
+http://portal5458.com:8080/live/HRK2DQ2RG7/6265485006/12554.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSENGLISH2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS ENGLISH 2 HD
+http://portal5458.com:8080/live/HRK2DQ2RG7/6265485006/12553.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSENGLISH3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS ENGLISH 3 HD
+http://portal5458.com:8080/live/HRK2DQ2RG7/6265485006/12552.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSFRENCH1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS FRENCH 1 HD
+http://mytv-extra.com:88/live/1827214806/9371309264/650.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSFRENCH2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS FRENCH 2 HD
+http://mytv-extra.com:88/live/1827214806/9371309264/651.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSFRENCH3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS FRENCH 3 HD
+http://mytv-extra.com:88/live/1827214806/9371309264/652.ts 
+
+
+#EXTINF:-1 tvg-id="BEIN SPORTS NEWS" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSNEWS.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS NEWS
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1294773&extension=ts&play_token=meZusbrdKY 
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 MAX FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2MAXFHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 MAX FHD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124077.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 MAX SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4MAXSD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 MAX SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124085.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSGLOBALHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS GLOBAL HD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30750.ts 
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32008.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32014.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 3 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS3SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32006.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 4 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32012.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 5 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS5SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32011.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 6 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS6SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts 
+#EXTINF:-1 tvg-id="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 SD
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts 
