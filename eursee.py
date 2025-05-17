@@ -2894,7 +2894,7 @@ STATIC_CATEGORIES = {
     "IQRAA EUR": "🇸🇦沙特阿拉伯",
     "QURAN": "🇮🇷伊朗",
     "BAHRAIN QURAN": "🇧🇭巴林",
-    "SHARJAH QURAN": "🇦🇪阿联酋"
+    "SHARJAH QURAN": "🇦🇪阿联酋",
     "AL QAMAR": "🇸🇦沙特阿拉伯",
     "ALMASIRA MUBASHER": "🇾🇪也门",
     "AL EKHBARIA": "🇸🇦沙特阿拉伯",
