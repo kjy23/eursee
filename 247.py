@@ -3012,6 +3012,6 @@ def process_m3u_file(input_file, output_file):
 
 # ✅ 主执行函数
 if __name__ == "__main__":
-    INPUT_FILE = 'path_to_input.m3u'  # 输入文件路径
-    OUTPUT_FILE = 'path_to_output.m3u'  # 输出文件路径
+    INPUT_FILE = './daddylive-channels.m3u8'  # 输入文件路径
+    OUTPUT_FILE = './247.m3u'  # 输出文件路径
     process_m3u_file(INPUT_FILE, OUTPUT_FILE)
