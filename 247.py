@@ -1,7 +1,7 @@
 import subprocess
 
 # ✅ Step 1: 使用 curl 下载文件
-M3U_URL = "https://iptv-scraper-re.vercel.app/daddylive/channels"
+M3U_URL = "https://guykjy-kjy-dproxy.hf.space/playlist/channels"
 INPUT_FILE = "daddylive-channels.m3u8"
 OUTPUT_FILE = "247.m3u"
 
