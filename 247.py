@@ -2566,7 +2566,7 @@ STATIC_CATEGORIES = {
     "marquee sports network": "🇺🇸美国体育+",
     "match boets russia": "🇷🇺俄罗斯体育+",
     "match football 1 russia": "🇷🇺俄罗斯体育+",
-    "match football 2 russia": "🇷🇺俄罗斯体育+"
+    "match football 2 russia": "🇷🇺俄罗斯体育+",
     "match football 3 russia": "🇷🇺俄罗斯体育+",
     "match premier russia": "🇷🇺俄罗斯体育+",
     "match tv russia": "🇷🇺俄罗斯体育+",
