@@ -2976,18 +2976,17 @@ def update_extinf_block(block):
     channel_title = extinf_line[comma_pos+1:].strip()
     key = channel_title.lower()
 
-    if key not in STATIC_TV_NAMES:
+    # 只使用 STATIC_CATEGORIES 字典来进行匹配
+    if key not in STATIC_CATEGORIES:
         return block  # 未匹配到则跳过
 
+    # 只通过 STATIC_CATEGORIES 获取 group-title
     attrs = {
-        "tvg-name": STATIC_TV_NAMES.get(key, ""),
-        "tvg-id": STATIC_TVG_IDS.get(key, ""),
-        "tvg-logo": STATIC_LOGOS.get(key, ""),
         "group-title": STATIC_CATEGORIES.get(key, ""),
     }
 
     attr_str = ' '.join(f'{k}="{v}"' for k, v in attrs.items() if v)
-    new_extinf = f'#EXTINF:-1 {attr_str},{STATIC_TV_NAMES[key]}'
+    new_extinf = f'#EXTINF:-1 {attr_str},{channel_title}'
 
     return "\n".join([new_extinf] + vlcopt_lines + url_lines)
 
@@ -3013,4 +3012,6 @@ def process_m3u_file(input_file, output_file):
 
 # ✅ 主执行函数
 if __name__ == "__main__":
+    INPUT_FILE = 'path_to_input.m3u'  # 输入文件路径
+    OUTPUT_FILE = 'path_to_output.m3u'  # 输出文件路径
     process_m3u_file(INPUT_FILE, OUTPUT_FILE)
