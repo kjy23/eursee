@@ -2,8 +2,8 @@ import subprocess
 
 # ✅ Step 1: 使用 curl 下载文件
 M3U_URL = "https://guykjy-kjy-dproxy.hf.space/playlist/channels"
-INPUT_FILE = "daddylive-channels.m3u8"
-OUTPUT_FILE = "247.m3u"
+INPUT_FILE = "./channels.m3u8"
+OUTPUT_FILE = "./247.m3u"
 
 print("📥 正在使用 curl 下载播放列表...")
 subprocess.run(["curl", "-o", INPUT_FILE, M3U_URL], check=True)
@@ -2326,6 +2326,7 @@ STATIC_CATEGORIES = {
     "bnt 3 bulgaria": "🇧🇬保加利亚体育+",
     "bandsports brazil": "🇧🇷巴西体育+",
     "barca tv spain": "🇪🇸西班牙体育+",
+    "movistar supercopa de espa�a": "🇪🇸西班牙体育+",
     "bein sports usa": "🇺🇸美国体育+",
     "bein sports hd qatar": "🇶🇦卡塔尔体育+",
     "benfica tv pt": "🇵🇹葡萄牙体育+",
@@ -2409,6 +2410,7 @@ STATIC_CATEGORIES = {
     "dazn laliga": "🇪🇸西班牙体育+",
     "dr1 denmark": "🇩🇰丹麦体育+",
     "dr2 denmark": "🇩🇰丹麦体育+",
+    
     "dstv kyknet & kie": "🇿🇦南非体育+",
     "dave": "🇬🇧英格兰体育+",
     "destination america": "🇺🇸美国体育+",
@@ -2483,6 +2485,8 @@ STATIC_CATEGORIES = {
     "foxny usa": "🇺🇸美国体育+",
     "fuse tv usa": "🇺🇸美国体育+",
     "fx movie channel": "🇺🇸美国体育+",
+    
+    "galavisi贸n usa": "🇺🇸美国体育+",  
     "fx usa": "🇺🇸美国体育+",
     "fxx usa": "🇺🇸美国体育+",
     "fanduel sports network socal": "🇺🇸美国体育+",
@@ -2582,6 +2586,7 @@ STATIC_CATEGORIES = {
     "movistar deportes 2 spain": "🇪🇸西班牙体育+",
     "movistar deportes 3 spain": "🇪🇸西班牙体育+",
     "movistar deportes 4 spain": "🇪🇸西班牙体育+",
+    "bein sports en espa単ol": "🇪🇸西班牙体育+",
     "movistar deportes spain": "🇪🇸西班牙体育+",
     "movistar golf spain": "🇪🇸西班牙体育+",
     "movistar laliga": "🇪🇸西班牙体育+",
@@ -2656,6 +2661,7 @@ STATIC_CATEGORIES = {
     "rte 2": "🇬🇧英格兰体育+",
     "rtl de": "🇩🇪德国体育+",
     "rtl7 netherlands": "🇳🇱荷兰体育+",
+    "rtl7 netherlandss": "🇳🇱荷兰体育+",
     "rtp 1 portugal": "🇵🇹葡萄牙体育+",
     "rtp 2 portugal": "🇵🇹葡萄牙体育+",
     "rtp 3 portugal": "🇵🇹葡萄牙体育+",
@@ -2690,6 +2696,7 @@ STATIC_CATEGORIES = {
     "showtime next (sho next) usa": "🇺🇸美国体育+",
     "showtime shoxbet usa": "🇺🇸美国体育+",
     "showtime showcase usa": "🇺🇸美国体育+",
+    "abcny usa": "🇺🇸美国体育+",
     "showtime usa": "🇺🇸美国体育+",
     "sixx de": "🇩🇪德意志体育+",
     "sky arts uk": "🇬🇧英格兰体育+",
@@ -2958,8 +2965,6 @@ STATIC_CATEGORIES = {
     "bein sports mena premium 2": "🌍全球体育+",
     "bein sports mena premium 3": "🌍全球体育+",
 }
-
-
 # ✅ Step 3: 更新频道信息
 def update_extinf_block(block):
     lines = block.strip().splitlines()
@@ -2970,23 +2975,24 @@ def update_extinf_block(block):
     vlcopt_lines = [line for line in lines[1:] if line.startswith("#EXTVLCOPT")]
     url_lines = [line for line in lines[1:] if not line.startswith("#EXTVLCOPT")]
 
+    # 获取频道标题（逗号后面的部分）
     comma_pos = extinf_line.rfind(',')
     if comma_pos == -1:
         return block
     channel_title = extinf_line[comma_pos+1:].strip()
     key = channel_title.lower()
 
-    # 只使用 STATIC_CATEGORIES 字典来进行匹配
+    # 如果字典中没有该频道的映射，跳过该块
     if key not in STATIC_CATEGORIES:
         return block  # 未匹配到则跳过
 
-    # 只通过 STATIC_CATEGORIES 获取 group-title
-    attrs = {
-        "group-title": STATIC_CATEGORIES.get(key, ""),
-    }
+    # 更新 group-title
+    new_group_title = STATIC_CATEGORIES.get(key, "")
 
-    attr_str = ' '.join(f'{k}="{v}"' for k, v in attrs.items() if v)
-    new_extinf = f'#EXTINF:-1 {attr_str},{channel_title}'
+    # 生成新的 #EXTINF 行，保留其他标签不变，只更新 group-title
+    new_extinf = extinf_line
+    # 替换掉原来的 group-title 部分
+    new_extinf = new_extinf.replace('group-title="' + extinf_line.split('group-title="')[1].split('"')[0] + '"', f'group-title="{new_group_title}"')
 
     return "\n".join([new_extinf] + vlcopt_lines + url_lines)
 
@@ -2995,23 +3001,29 @@ def process_m3u_file(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
+    # 只保留 #EXTM3U 行作为文件开头
+    if "#EXTM3U" in content:
+        content = content.split("#EXTM3U", 1)[1].strip()  # 去掉原始的 #EXTM3U 行
+
+    # 按照 #EXTINF 分割频道块
     blocks = content.strip().split("#EXTINF")
     updated_blocks = []
 
+    # 处理每个块
     for block in blocks:
         if not block.strip():
             continue
         updated_block = update_extinf_block("#EXTINF" + block)
         updated_blocks.append(updated_block.strip())
 
+    # 写入新文件，添加 #EXTM3U url-tvg="..."
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("#EXTM3U\n\n")
+        # 添加 #EXTM3U 行作为开头
+        f.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml"\n\n')
         f.write("\n\n".join(updated_blocks))
 
     print(f"🎉 处理完成，输出文件为: {output_file}")
 
 # ✅ 主执行函数
 if __name__ == "__main__":
-    INPUT_FILE = './daddylive-channels.m3u8'  # 输入文件路径
-    OUTPUT_FILE = './247.m3u'  # 输出文件路径
     process_m3u_file(INPUT_FILE, OUTPUT_FILE)
