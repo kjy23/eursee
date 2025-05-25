@@ -1774,7 +1774,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sil
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", SİNOP YILDIZ TV
 http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", SKYHABER TV
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/playlist.m3u8
+https://cdn4.yayin.com.tr/skyhabertv/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", SUN RTV MERSİN
@@ -2611,6 +2611,8 @@ https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg", CHADA TV شدى
 https://test-streamer.eagrpservices.com/video/live/720p/chada.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif", TELE MAROC
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/telemaroc.m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIA 1
@@ -2625,6 +2627,8 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 https://edge66.magictvbox.com/liveApple/nessma/index.m3u8
 #EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png", TV2 ALGÉRIE
 http://69.64.57.208/canalalgerie/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png", TV2 ALGÉRIE
+https://live20.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
 #EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png", ECHOROUK TV DZ
 https://hls-distrib-rlb1.dzsecurity.net/live/EchoroukTV/playlist.m3u8?e=&token=
 #EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png", ECHOROUK NEWS DZ
@@ -3027,6 +3031,10 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/fqTYrGY/33.png", KAN 33 MAKAN
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/SYvz5YT/masriya.jpg", AL MASRIYA TV
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/qMm9t2ZK/niletv.png", NILE TV
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/S6xK2x9/aone.jpg", A ONE
 http://master.starmena-cloud.com/hls/a1jo.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/qMyBBdb/kab.png", KAB 1
@@ -3621,6 +3629,12 @@ https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/in
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/Hy2GLK8/mbcloud.png", MBC LOUD FM TV
 https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/dQV1zQG/cbclive.jpg", CBC LIVE EGY
+https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png", CBC SOFRA
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Kcwxz7NQ/dmceg.png", DMC EGY
+https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png", ROTANA CINEMA KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png", ROTANA CINEMA KSA
@@ -3813,6 +3827,8 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 group-title="🇮🇹意大利" tvg-logo="https://i.imgur.com/KdissvS.png", RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.imgur.com/KdissvS.png", RTL 102.5 SEC
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇹意大利" tvg-logo="https://i.imgur.com/zDByOwo.png", SUPER!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 group-title="🇮🇹意大利" tvg-logo="https://i.imgur.com/KCBurST.png", EXTRA TV
@@ -3997,6 +4013,18 @@ https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/D2GvNMZ/syrialb.jpg", TV SYRI
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/MDMbdzKG/albmusic.jpg", ALB MUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RkSFfsq7/albuk.jpg", ALB UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/nqWcMQ55/tvanews.png", TVA NEWS
+https://live.tvanews.com/live/tvanews/play.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/qFm4shqL/topestr.jpg", TOP ESTRADA
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/qL0jBF6Y/tvshiqponja.jpg", SHQIPONJA TV
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/S7vytcfQ/opoja.jpg", OPOJA TV
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", GPB 1TV პირველი არხი
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", GPB 2TV
@@ -4009,12 +4037,22 @@ https://dvrfl05.tulix.tv/gin-rustavi2/index.m3u8
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", FORMULA
 https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", ADJARA
-https://dvrfl05.tulix.tv/gin-adjara/index.m3u8
 #EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", MTAVARI ARKHI
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 group-title="🇬🇪格鲁吉亚" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", ADJARA
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/adjara.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", TV MZE
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tvmze.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", EURONEWS GE
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/euronewsgeorgia.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", ERTSULOVNEBA
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/ertsulovneba.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", TV25
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RN3dJQ7/geoflag.png", MAESTRO
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8
 #EXTINF:-1 group-title="🇦🇲亚美尼亚" tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png", H1 ARM Հանրային հեռուստաը
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1 group-title="🇦🇲亚美尼亚" tvg-logo="https://i.ibb.co/tmkv6RC/armflag.png", H1 NEWS
@@ -4058,7 +4096,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 group-title="🇦🇿阿塞拜疆" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", TMB AZ
 http://str.yodacdn.net/tmb_az_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:-1 group-title="🇦🇿阿塞拜疆" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", XEZER TV
-http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/az/xezer-tv.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png", IRIB 1
 https://s1.ettehadlive.com/live/39/chunklist.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png", IRIB 2
