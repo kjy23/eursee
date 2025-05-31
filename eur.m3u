@@ -251,6 +251,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png", ARTE 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frarte.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png", ARTE 
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/arte.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", M6 
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", M6 
@@ -574,7 +576,7 @@ https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png", ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/61mqv2h/biptv.png", BIP TV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
+https://www.biptv.tv/live/biptvstream.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png", CANAL 32
 https://edge17.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/Dpsn6ZV/c32.png", CANAL 32
@@ -2643,6 +2645,8 @@ https://live20.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8
 http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png", TV2 ALGÉRIE
 https://live20.bozztv.com/dvrfl05/gin-canalalgerie/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png", ENNAHAR TV
+https://live20.bozztv.com/gin-36bay3/ga-ennahartv/index.m3u8
 #EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png", ECHOROUK TV DZ
 https://live20.bozztv.com/gin-36bay3/ga-echorouktv/index.m3u8
 #EXTINF:-1 group-title="🇩🇿阿尔及利亚" tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png", ECHOROUK TV DZ
@@ -2927,6 +2931,8 @@ http://5.9.119.146:8883/nbn/index.m3u8
 https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg", OTV LBN
 http://185.9.2.18/chid_312/index.m3u8
+#EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg", OTV LBN
+https://live20.bozztv.com/gin-36bay4/ga-otvlebanon/index.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png", AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png", AL JADEED
@@ -2948,7 +2954,7 @@ https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/JrFjqrc/nabaa.png", NABAA TV
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/h872gKg/taha.png", TAHA TV
-https://media2.livaat.com/TAHA-TV/index.m3u8
+https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/h872gKg/taha.png", TAHA TV
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png", MTV LBN
@@ -3527,6 +3533,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Mgm51w6/sat7ara.webp", SAT7 ARABIC
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/V0pWD9ZX/charity.png", CHARITY TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png", NOURSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png", NOURSAT AL SHARQ
