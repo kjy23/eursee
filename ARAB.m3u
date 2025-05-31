@@ -377,10 +377,14 @@ https://media1.livaat.com/live/Libya-bussness/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="",Libya Al Wataniya 
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1198_1.png" ,CBC
+https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="" ,EXTRA NEWS
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch21.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1203_1.png" ,ON E
 https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/channels/dmc-hd.png" ,DMC
+https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://media.elcinema.com/tvguide/1193_1.png" ,النهار الأولى
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch17.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://media0075.elcinema.com/tvguide/1280_1.png" ,TEN
