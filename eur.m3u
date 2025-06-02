@@ -7,6 +7,8 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png", FRANCE INFO:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RGPQCmYD/tvlfr.png", TVL TV LIBERTÉS
+https://video.twimg.com/amplify_video/1929231504401469440/pl/WksBCUIWBSVQZCYc.m3u8?variant_version=1&tag=14
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg", LE MÉDIA TV
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg", LE MÉDIA TV -1H
@@ -189,6 +191,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rg
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png", ARTE -0,5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", M6
+https://live20.bozztv.com/dvrfl06/astv/astv-m6hdtv/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png", CANAL+ EN CLAIR
@@ -308,9 +312,15 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequip
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE FOOT
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/backup/l-equipe-live-foot-dm.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive5.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/gTxbf2C/rmcts.jpg", RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg", FRANCE TV FESTIVAL DE CANNES 
+https://evenementiel_mai
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg", FRANCE TV ROLAND-GARROS 
+https://evenementiel_juin
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/Xt5YPJY/jdgolf.png", JOURNAL DU GOLF
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png", L'ÉSPRIT SORCIER TV
@@ -558,7 +568,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png", TÉBÉO TV
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/3k4Lv34/tvrennes.png", TVR RENNES
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/C5mwn8j2/bordotv.png", BORDO TV
 https://srv.webtvmanager.fr:3463/stream/play.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/vCB3X1Hm/bordosport.png", BORDO SPORT
@@ -1237,12 +1247,12 @@ https://womantv.blutv.com/blutv_womantv/blutv_womantv/index.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png", TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png", MİNİKA GO 
-https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png", MİNİKA ÇOCUK 
-https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png", MİNİKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png", MİNİKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK TR
-http://51.20.137.71/stream/yt/cartoonnetwork.m3u8
+https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png", GALATASARAY TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png", FENERBAHÇE TV
@@ -1297,6 +1307,10 @@ https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/8g20RBH/ebatek.png", TRT EBA TV
 https://ebao.blutv.com/blutv_ebao2/live.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png", MİNİKA GO 
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png", MİNİKA ÇOCUK 
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png", MİNİKA ÇOCUK 
 http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png", MİNİKA GO 
@@ -3598,13 +3612,15 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png", MBC 1
 https://mbc1-usa-enc.edgenextcdn.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png", MBC 1 USA
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png", MBC 1 USA
 https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png", MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png", MBC 3
 https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
+#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png", MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png", MBC 3 USA
 https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/5smk763/mbc4.png", MBC 4
@@ -3621,6 +3637,8 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 https://mbcdrama-usa-enc.edgenextcdn.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png", MBC DRAMA USA
 https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png", MBC DRAMA USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png", MBC DRAMA MASR
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png", MBC DRAMA PLUS
@@ -3635,6 +3653,8 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m
 https://shls-live-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png", MBC MASR 1
 https://masr-usa-enc.edgenextcdn.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+#EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png", MBC MASR USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png", MBC MASR USA
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg", MBC MASR 2
@@ -4447,6 +4467,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 group-title="🇺🇸美国新闻" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png", FOX NEWS
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 group-title="🇺🇸美国新闻" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png", FOX NEWS
+https://ott.udptv.org/stream/udptvus/foxnews/stream.m3u8?uid=2570179469&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1 group-title="🇺🇸美国新闻" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png", FOX NEWS
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="🇺🇸美国新闻" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg", NBC NEWS
