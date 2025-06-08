@@ -3509,6 +3509,8 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/k8Xbs2n/alshallal.jpg", AL SHALLAL
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/KjSRycnm/alhayat.png", AL HAYAT
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/Ch3FNj9/tenar.jpg", TEN WEYYAK
 https://live20.bozztv.com/gin-36bay3/ga-tentv/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png", IQRAA 1
@@ -3673,6 +3675,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg", MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg", MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg", MBC MASR 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg", MBC MASR 2
