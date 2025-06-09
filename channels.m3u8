@@ -297,6 +297,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cartoon-network.png" group-title="UNITED STATES",Cartoon Network
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzM5L21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-11-israel.png" group-title="ISRAEL",Channel 11 Israel
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NDgvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/channel-12-israel.png" group-title="ISRAEL",Channel 12 Israel
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NDkvbW9uby5tM3U4.m3u8
 
@@ -371,6 +374,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2R
 
 #EXTINF:-1 tvg-id="Cytavision.Sports1.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 1 Cyprus
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="Cytavision.Sports2.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 2 Cyprus
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="Cytavision.Sports3.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 3 Cyprus
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW05MTMvbW9uby5tM3U4.m3u8
@@ -642,6 +648,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWt
 #EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fuse-tv.png" group-title="UNITED STATES",FUSE TV USA
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjc5L21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="UNITED STATES",FX Movie Channel
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODEvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-usa.png" group-title="UNITED STATES",FX USA
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
 
@@ -882,6 +891,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/marquee-sports-network.png" group-title="UNITED STATES",Marquee Sports Network
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-boets-ru.png" group-title="RUSSIA",Match Boets Russia
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzk1L21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-1-ru.png" group-title="RUSSIA",Match Football 1 Russia
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzYvbW9uby5tM3U4.m3u8
 
@@ -974,6 +986,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2R
 
 #EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc-usa.png" group-title="UNITED STATES",NBC USA
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01My9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc10-philadelphia.png" group-title="UNITED STATES",NBC10 Philadelphia
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNzcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us   " tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbcny-usa.png" group-title="UNITED STATES",NBCNY USA
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjkvbW9uby5tM3U4.m3u8
