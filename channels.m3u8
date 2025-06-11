@@ -225,6 +225,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/syfy-usa.png" group-title="UNITED STATES",CBSNY USA
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmt.png" group-title="UNITED STATES",CMT USA
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ3L21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="CMTV.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cmtv.png" group-title="PORTUGAL",CMTV Portugal
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzkwL21vbm8ubTN1OA==.m3u8
 
@@ -737,6 +740,9 @@ https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk
 
 #EXTINF:-1 tvg-id="Great.American.Family.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbc.png" group-title="UNITED STATES",Great American Family Channel
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02OTkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/grit-channel.png" group-title="UNITED STATES",Grit Channel
+https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzUyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-comedy-us.png" group-title="UNITED STATES",HBO Comedy USA
 https://guykjy-kjy-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkwL21vbm8ubTN1OA==.m3u8
