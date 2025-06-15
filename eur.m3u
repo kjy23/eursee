@@ -2627,6 +2627,8 @@ https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 https://5940924978228.streamlock.net/Directo1/Directo1/playlist.m3u8
 #EXTINF:-1 group-title="🇪🇸西班牙" tvg-logo="https://i.ibb.co/QnMxFJD/madr.jpg", TELE MADRID 
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png", 2M MONDE الثانية
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png", MEDI 1 MG العربية
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png", MEDI 1 AR العربية
@@ -3611,6 +3613,14 @@ https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png", AL JAZEERA 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png", AL JAZEERA 
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png", AL JAZEERA MUBASHER 
+https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png", AL JAZEERA MUBASHER 2 
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png", AL JAZEERA MUBASHER 24 
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png", AL ARABIYA 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png", AL ARABIYA 
@@ -4077,6 +4087,8 @@ https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png", AL JAZEERA BALKANS
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png", AL JAZEERA BALKANS
+https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8
 #EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/pBZ486WC/n1bal.png", N1 BOS
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 group-title="🇷🇸塞尔维亚" tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png", RTS 1
@@ -4783,6 +4795,8 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png", AL JAZEERA NEWS
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="🇨🇳央视" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png", CGTN NEWS
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="🇨🇳央视" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png", CGTN NEWS
@@ -4795,6 +4809,8 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/rwbrckj/pressir.png", PRESS TV 
 https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/rwbrckj/pressir.png", PRESS TV 
+https://rumble.com/live-hls/6s62fv/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺俄罗斯新闻" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png", RT NEWS 
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺俄罗斯新闻" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png", RT NEWS 
