@@ -4045,6 +4045,14 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png", TVP 1
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp1.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png", TVP 1
+https://live002.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/46QnrG9/tvp1.png", TVP 1
+https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png", TVP 2
+https://live002.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png", TVP 2
+https://liveovh009.cda.pl/enc129/tvp2hdraw/tvp2hdraw.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/23wHr2St/tvp2.png", TVP 2
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp2.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/CpvvBMmp/tvp3.png", TVP3 WARSZAWA
