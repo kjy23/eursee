@@ -124,6 +124,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png", FRANCE INFO: 
 https://PuthereYourserverHostaddress/frijsoncurl.php?m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 FR 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/f24fr.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 FR 
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 FR 
 https://ythls-v3.onrender.com/video/l8PMl7tUDIE.m3u8
@@ -830,7 +832,7 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playli
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png", EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png", ULUSAL KANAL
-http://116.202.238.88/ULUSALTV_TR/index.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png", NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png", TV 5
@@ -841,10 +843,12 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png", CNN TÜRK
 https://b.fulltvizle.com/cnn/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png", CNN TÜRK
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png", KRT
 http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png", KRT
-http://sultanweb.site/YouTUBE.php?ID=UCVKWwHoLwUMMa80cu_1uapA
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png", GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png", BENGÜ TÜRK
@@ -877,6 +881,8 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png", CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png", CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png", TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/K6BKFqY/dha.png", DHA 
@@ -889,6 +895,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png", TRT HABER 
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", SÖZCÜ TV 
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", SÖZCÜ TV 
 https://b.fulltvizle.com/sozcu/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png", SÖZCÜ TV 
@@ -1269,6 +1277,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_48
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK TR
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png", CARTOON NETWORK TR
+https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png", GALATASARAY TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png", FENERBAHÇE TV
@@ -1280,9 +1290,9 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png", BIS HABER
-https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV
 https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV
@@ -2055,6 +2065,8 @@ http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/makt
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png", OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/8bgKVyb/openbyd.png", OPEN TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/xq8t3P5/attica.jpg", ATTICA
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/sPtkhnL/sigma.png", SIGMA TV
@@ -2413,6 +2425,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96c0c2873090008d35
 https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇪🇸西班牙" tvg-logo="https://i.ibb.co/NLVj121/eltoro.png", EL TORO TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 group-title="🇪🇸西班牙" tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png", SUR 1 ANDALUCÍA
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 #EXTINF:-1 group-title="🇪🇸西班牙" tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png", SUR 1 ANDALUCÍA
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇪🇸西班牙" tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png", SUR 1 ANDALUCÍA
@@ -3291,6 +3305,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", KAS QATAR SHOOF
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", AL KASS 2
+https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", AL KASS 3
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png", SAUDI SBC SA
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png", SAUDI SBC SA
@@ -4377,6 +4395,8 @@ https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
 https://ncdn.telewebion.com/sina/live/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png", KHAVARAN
 https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png", IRAN TV
+https://irantv.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png", IRIB IRINN
 https://s1.ettehadlive.com/live/42/chunklist.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png", IRIB IFILM FAR
