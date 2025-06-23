@@ -374,4 +374,17 @@ http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/124095.ts
 #EXTINF:-1 tvg-id="BEIN SPORTS 7 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 SD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/32009.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 8 SD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8SD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 SD
-http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts 
+http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/279954.ts
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="EUROSPORT1" tvg-logo="https://mchoumi.github.io/LOGOs/eurosport-1-fr.png" group-title="Sports",EUROSPORT1 FR
+http://mag.king-4k.cc:80/2D53C88A0F35474/C620D99417A0F10/130944 
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="EUROSPORT2" tvg-logo="https://mchoumi.github.io/LOGOs/eurosport-2-fr.png" group-title="Sports",EUROSPORT2 FR
+http://mag.king-4k.cc:80/2D53C88A0F35474/C620D99417A0F10/130945
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="EUROSPORT1" tvg-logo="https://mchoumi.github.io/LOGOs/eurosport-1-fr.png" group-title="Sports",EUROSPORT1 ES
+http://mag.king-4k.cc:80/2D53C88A0F35474/C620D99417A0F10/94702 
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="EUROSPORT2" tvg-logo="https://mchoumi.github.io/LOGOs/eurosport-2-fr.png" group-title="Sports",EUROSPORT2 ES
+http://mag.king-4k.cc:80/2D53C88A0F35474/C620D99417A0F10/94673
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="EUROSPORT1" tvg-logo="https://mchoumi.github.io/LOGOs/eurosport-1-fr.png" group-title="Sports",EUROSPORT1 DE
+http://mytv-extra.com:88/live/1827214806/9371309264/164347.ts 
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="EUROSPORT2" tvg-logo="https://mchoumi.github.io/LOGOs/eurosport-2-fr.png" group-title="Sports",EUROSPORT2 DE
+http://mytv-extra.com:88/live/1827214806/9371309264/164348.ts
