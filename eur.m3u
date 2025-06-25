@@ -195,6 +195,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png", ARTE -0,5H
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png", M6
+https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png", CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18
@@ -2822,9 +2824,9 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/in
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg", RESHET 13 sub-cc רשת
 https://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/index.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", NOW 14 עכשיו
-https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", NOW 14 עכשיו
 https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/4g6BSYf/now14smgri.png", NOW 14 עכשיו
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS HE עברית
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/tLYB26T/h2322.png", HINUCHIT 23 חינוכית
@@ -2832,7 +2834,7 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/7nYM8MK/arutz24tvtrp.png", MAKO 24 ערוץ
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png", CALCALA 10 ערוץ_הכלכלה
-https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png", HAKNESSET 99 כנסת
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png", HAKNESSET 99 sub-cc כנסת
@@ -2925,8 +2927,6 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png", CALCALA 10 ערוץ_הכלכלה 
 https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx
-#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png", CALCALA 10 ערוץ_הכלכלה 
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA !+ וואלה! חדשות 
 https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA ! + 
@@ -3121,8 +3121,6 @@ https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist.m3u8
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/XrC6F6JW/salam.png", SALAM
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
-#EXTINF:-1 group-title="🇯🇴约旦" tvg-logo="https://i.ibb.co/QPv27Qc/wtw.jpg", AL WASAT TV
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/dp728rg/rayan.png", AL RAYYAN
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/dp728rg/rayan.png", AL RAYYAN
@@ -4133,6 +4131,10 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 group-title="🇭🇷克罗地亚" tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png", RTL HR
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 group-title="🇭🇷克罗地亚" tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png", RTL HR
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png", HRT 1 
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:-1 group-title="🇭🇷克罗地亚" tvg-logo="https://i.ibb.co/NgPZkKhJ/cmctv.png", CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="🇭🇷克罗地亚" tvg-logo="https://i.ibb.co/nM7rVmT4/jadran.png", TV JADRAN
@@ -4141,6 +4143,8 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 #EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png", BH RT
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+#EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/HLzRKs7k/bhrt.png", BH RT
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/YFPPw1Wf/tvmba.png", TELEVIZIJA M
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 group-title="🇧🇦波黑" tvg-logo="https://i.ibb.co/4nyQwgwX/Aljbalk.png", AL JAZEERA BALKANS
