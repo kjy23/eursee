@@ -177,8 +177,10 @@ https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-SD
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjEiLCJjbWNkIjoiIiwiZXhwIjoxNzUxODQ4MjM1LCJnaWQiOiI1OWU4ODFjMjI2NTE0Y2M1YjdjMTEzZDYwMDFmNjQ4MCIsImlhdCI6MTc1MTgzMzgzNSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjU5ZTg4MWMyMjY1MTRjYzViN2MxMTNkNjAwMWY2NDgwIn0.UHmVsBnlDaZexdzUymW56fEh0NTCQmiHxm6kNHk4sHM/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8?bpkio_serviceid=9023effe3c16b0475d35e9f31c778b5c&bpkio_sessionid=10e0d3d12-5557a818-012b-43e5-abc1-cc1d5c7271a8&category=all&mm_sp
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6Ea8FNx2OmkM/ZJgvj6pPraH6B439.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/btv/py/tfun.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -214,7 +216,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png", CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png", TMC
-https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/JE4w1uPzd04/2JXIhlK4ce5mEHtZ.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png", NOVO 19
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png", TV5MONDE EUROPE 
@@ -249,6 +251,14 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/C8.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png", CSTAR 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-SD
+error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-BD_LQ
+https://live-tf1-hls.cdn-0.diff.tf1.fr/no/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1 
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1 
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1 
 http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2 
@@ -2129,16 +2139,6 @@ https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/TPGzY4C/omega.png", OMEGA
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/480p4sv/alpha.png", ALPHA TV CYPRUS
-https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK SAT CYPRUS
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK 1
-http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK 2
-http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK HD
-http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/56kWP6F/action24.png", ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/1qXMwq2/groovy.png", GROOVY TV
@@ -2195,6 +2195,16 @@ https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/L9fj1Hj/greece.png", 10 CHANNEL
 https://castor.streamthatvideo.co:8081/10channel/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/480p4sv/alpha.png", ALPHA TV CYPRUS
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK SAT CYPRUS
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK 1
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK 2
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/3sHp7pS/riksat.png", RIK HD
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png", ERT WORLD 
 https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png", ERT WORLD 
@@ -3032,7 +3042,7 @@ https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg", OTV LBN
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg", OTV LBN
-https://live20.bozztv.com/gin-36bay4/ga-otvlebanon/index.m3u8
+https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png", AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 group-title="🇱🇧黎巴嫩" tvg-logo="https://i.ibb.co/hM98B0V/jadeed.png", AL JADEED
@@ -3822,11 +3832,11 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png", ROTANA CINEMA KSA
 https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png", ROTANA AFLAM PLUS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png", ROTANA AFLAM PLUS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png", ROTANA M PLUS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png", ROTANA M PLUS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png", ROTANA MUSIC
@@ -3840,7 +3850,7 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png", ROTANA KHALIJA
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png", ROTANA PNC DRAMA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
 #EXTINF:-1 group-title="🇯🇴约旦" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png", ROYA TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 group-title="🇯🇴约旦" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png", ROYA MUSIC
