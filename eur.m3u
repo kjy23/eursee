@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4Mi42NC4yMTQuMTYwIiwiY21jZCI6IiIsImV4cCI6MTc1MjExNzQ5NCwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3NTIxMDMwOTQsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.vCi6PMpmNNy96NIGBlNxeD60KywjVCXlXDgieH7B5cU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS44OC4xOTAuMTk5IiwiY21jZCI6IiIsImV4cCI6MTc1MjIwMzg5NSwiZ2lkIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYiLCJpYXQiOjE3NTIxODk0OTUsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJlNzIwMzhjMzU5NDg0MDc1YjgzOGUwNjY5NWI3ZDQ5NiJ9.nQiAE22quH_rWl868oIL9FGW_TmKkNTHPqLRGCn1-mU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1MjA5ODQwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTIwODQwMDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.yZN4DEB4YLH0j6vhJq6xBCANJR9wzJneLaRBw4xdTHM/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1MjE5OTIwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTIxODQ4MDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.Y3UGgOumZsY4wShRkH7-Tp4FWWB_lUg1ryGSIeWBUnA/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -792,9 +792,13 @@ https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/4YZfGGL/rtcliege.png", RTC TÉLÉ LIÈGE
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg", QUATRE LIÈGE
+https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
+#EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg", QUATRE LIÈGE
 https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/5TyhqWc/telemb.jpg", TÉLÉ MB
 https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8
+#EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/5TyhqWc/telemb.jpg", TÉLÉ MB
+https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/y0jz90j/bouke.jpg", BOUKÈ
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/2F48hsL/actv.png", ANTENNE CENTRE
@@ -803,8 +807,10 @@ https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/8gczbQk/sambre.png", SAMBRE CHARLEROI
 https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8
-#EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png", BRABANT WALLON
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png", BRABANT WALLON TVCOM
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/NSZgQQG/Brabant.png", BRABANT WALLON TVCOM
+https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
 #EXTINF:-1 group-title="🇧🇪比利时" tvg-logo="https://i.ibb.co/MCtzw8h/tvlux.png", TV LUX
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 #EXTINF:-1 group-title="🇨🇭瑞士" tvg-logo="https://i.ibb.co/fqq90Z2/noovo.png", NOOVO
@@ -1113,6 +1119,8 @@ https://bozztv.com/inim03/live1/turkfoxtv/playlist.m3u8
 https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
 https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV 
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV 
 https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV 
@@ -1996,6 +2004,8 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDMAX SHOW
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDMAX SORANÎ
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
@@ -2021,6 +2031,10 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://kurdsat.akamaized.net/hls/kurdsat.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDSAT
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDSAT
+https://iko-live.akamaized.net/kurdhd/master.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDSAT NEWS
+https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDSAT NEWS
 https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDMAX MUSIC
@@ -2735,6 +2749,10 @@ https://fl1002.bozztv.com/ga-elwatania1/index.m3u8
 https://fl1002.bozztv.com/ga-elwatania2/index.m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/TM8sRjr/watanya-2.png", WATANIA 2
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/N22619Rm/Mosaiquetn.jpg", MOSAÏQUE FM TV TN
+https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cK7f5bsz/Jawhara.png", JAWHARA TV
+https://streaming.toutech.net/live/jtv/index.m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png", ATTASIA 9
 https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/8DxdBPf/Attessia9.png", ATTASIA 9
@@ -3823,6 +3841,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/in
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg", MBC MOVIES THRILLER
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/35CRbTmk/mbcgame.jpg", MBC GAMING
+https://shls-live-enc.edgenextcdn.net/out/v1/8ae5c35ffc5247a58e71a5c86dd31ad6/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png", MBC RABEH SAQER
 https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png", MBC FM LIVE TV
