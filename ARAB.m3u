@@ -408,7 +408,7 @@ https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://tvm.mr/ar/wp-content/uploads/2022/10/cropped-LOGO-FACEBOOK.png" ,الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://saharamedias.net/wp-content/uploads/2024/04/Sahara24Live-1-1.gif" ,صحراء 24
-https://live.saharamedias.net/sahara24-live/tracks-v1a1/mono.m3u8
+https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,Space Toon FHD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,Space Toon
