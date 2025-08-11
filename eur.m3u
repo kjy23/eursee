@@ -176,9 +176,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTQ3OTU4OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU0NzgxNDkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.2AOBYRV98wy1ZojAuLnhn-qgfWmWLzQs7WQy3lDinUo/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTQ4ODIyOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU0ODY3ODkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.mZA3Uy3FcbNLCOZx8SUVMtM20OKh82EUjVSLvjR09fI/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NDc5MTIwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTQ3NzY4MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.sgcGy761qRScNH9g8BP7nwqqIlFBXEsymcIk_p0o1ys/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NDg3NzYwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTQ4NjMyMDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.8GzjjqmCXKSjQjuMAExjiztNDF2GtrQXgN2O1EFYZ_4/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -2031,6 +2031,8 @@ https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", ROJAVA TV
 https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", ZOOMNEWS
+https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", MED MUSIC
 https://iko-live.akamaized.net/MedMusicTV/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", MEDYA HABER
@@ -3295,6 +3297,8 @@ https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/60579
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/99cj3D4g/Masirah.jpg", AL MASIRAH
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/FqKgpZKq/Alnahrain.png", AL NAHRAIN
+https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="🇧🇭巴林" tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png", BAHRAIN TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 group-title="🇧🇭巴林" tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png", BAHRAIN TV INT
