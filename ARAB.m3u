@@ -431,6 +431,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" , الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://shams.tv/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.fa219549.svg&w=128&q=75" ,شـــمس
+https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/8d1Srb9/alalam.jpg" , العالم الإيرانية
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" , صوت ألمانيا
