@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTE",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTU4MzI2OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1ODE4MjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.SpaJVIF3ECBYAD-UsTtn4nzS73j-No75KxHFDDnyyfo/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTU5MTkxMzksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1OTA0NzM5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Y_MNK2szsP-WfnQXQon5VG0ahuuQMaqKojZ5LU1s3sY/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NTgxMzYwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU3OTkyMDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.0b7UBVvU7s9QUVj7mAwKHp-YfCAHAj4TvIOJ3f6kZR0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NTkxNDQwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU5MDAwMDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.Cs-ZctdBsUJzfiPnznO2wgKr_uJlVeZC0kXiLXccCe8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
@@ -942,7 +942,7 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://b.fulltvizle.com/cnn/playlist.m3u8
+http://176.65.146.123:6002/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
@@ -1120,9 +1120,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=7AjfWyfnazp8FzmicqtzwA&e=1755825446
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=876S6Y67yUNNWTv4-7ldMA&e=1755911897
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=7AjfWyfnazp8FzmicqtzwA&e=1755825446
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=876S6Y67yUNNWTv4-7ldMA&e=1755911897
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
@@ -2363,6 +2363,10 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS (backup)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2 (backup)
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjHZT7x/ert3.png",ERT 3 (backup)
+https://github.com/jimgate07/grtv/blob/master/Metadoseis/ert3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGvP32M/ertsports1.png",ERT SPORTS 1 (backup)
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGvP32M/ertsports1.png",ERT SPORTS 1 (backup)
