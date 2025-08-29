@@ -176,9 +176,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTYzNTEwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU2MzM2NjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.B6GpDLmgMg_8Wg6K638jIr-BlOjXwpRBkTeyWvLYeO4/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTY0Mzc1MzAsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU2NDIzMTMwLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.b8D2hJMoEh9CrrwYWto_bVjbCb1F2foGogKyCPgMMhU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
- No HTTPS link found.
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTY0Mzg4MTUsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1NjQyNDQxNSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.VjY4Ewl_mKKEYBjqNTQkU2peGTug7POWwuMvz6DqDPE/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -975,6 +975,8 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png", HABER TÜRK 
 https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png", HABER TÜRK 
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png", HABER GLOBAL 
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png", TV 100 
@@ -1048,7 +1050,7 @@ https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png", BLOOMBERG HT 
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png", CNBC-E 
-http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png", TGRT HABER 
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png", TGRT HABER 
@@ -3030,11 +3032,11 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png", KAN 11 כאן 
 https://kan11b.media.kan.org.il/hls/live/2096972/2096972/master.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png", KESHET 12 קשת 
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png", KESHET 12 קשת 
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png", KESHET 12 קשת 
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg", RESHET 13 רשת 
 https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/mainManifest.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg", RESHET 13 רשת 
@@ -3341,6 +3343,8 @@ https://live.alawla.tv/hls/stream.m3u8
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg", AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/vxHjssjg/ahad.png", AHAD TV
+http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/N2H1qy00/kahera.jpg", KAHERA EG
 https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/rG6KzwsJ/hayah.jpg", AL HAYAH TV
@@ -4173,6 +4177,8 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.imgur.com/KdissvS.png", RTL 102.5 SEC
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.imgur.com/KdissvS.png", RTL 102.5 PLS
+https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/VppqZ2GD/24ore.png", RADIO 24 ORE LIVE TV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 group-title="🇮🇹意大利" tvg-logo="https://i.imgur.com/zDByOwo.png", SUPER!
