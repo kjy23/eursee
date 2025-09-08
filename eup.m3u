@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.open-epg.com/files/uae2.xml.gz" 
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
-http://mytv-extra.com:88/live/1827214806/9371309264/166556.ts
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1058030&extension=ts&play_token=WaDW2Ji0Eg
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=15074&extension=ts 
+http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1058042&extension=ts&play_token=umACq6eF9j 
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://mytv-extra.com:88/live/1827214806/9371309264/188470.ts 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMovies.png" group-title="🇸🇦沙特阿拉伯", MBC Movies
@@ -13,7 +13,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
 
 #EXTINF:-1 tvg-id="Canal+ Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Cinema.png" group-title="🇫🇷法兰西公共", Canal+ Cinema
-http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=148475&extension=ts&play_token=SUO8vpNxpo
+http://noruqfx.top:8080/live/191703089055131/01703089055686/8001.ts
 #EXTINF:-1 tvg-id="Canal+ Box Office" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice.png" group-title="🇫🇷法兰西公共", Canal+ Box Office
 http://noruqfx.top:8080/live/191703089055131/01703089055686/58335.ts 
 #EXTINF:-1 tvg-id="Canal+ Grand Ecran" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+GrandEcran.png" group-title="🇫🇷法兰西公共", Canal+ Grand Ecran
