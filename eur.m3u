@@ -176,9 +176,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTcyMDc5NDIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU3MTkzNTQyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.hxa7bUz01W2jHUhiyb_lj76YwTg9J3uokge17RdID0g/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTczMDE1MzUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU3Mjg3MTM1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.TRRpbjmeZyYBbE-5W53YL8Y3aDb-7bP9KZKXSXHguWQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTcyMTY0MjcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1NzIwMjAyNywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.iiqPMRIzcO0EjKVymJ-M__4qu423GIX5LXKxVGrwEuU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTczMDI4MjIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1NzI4ODQyMiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.xzT_sOG987tcAo6P8CFStIyjwUxvmAAP4KPlHmsYUnU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -203,8 +203,6 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png", CANAL+ EN CLAIR
 https://hls-m005.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png", RMC STORY
@@ -217,6 +215,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png", NOVO 19
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18 
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18 
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailymotion/t18.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png", TV5MONDE EUROPE 
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png", TV5MONDE MOYEN-ORIENT 
@@ -326,9 +328,13 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png", L'ÉQUIPE TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png", L'ÉQUIPE TV
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipe.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png", L'ÉQUIPE TV
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 1 
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 2 
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 3 EVENTS
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 4 EVENTS
@@ -1111,6 +1117,8 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D 
 http://trn09.tulix.tv/gt-kanald/index.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D 
+http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
@@ -1465,6 +1473,8 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR 
 https://x.canlitvapp.com/aspor/index.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR 
+http://116.202.238.88/ASPOR_TR/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR 
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR 
@@ -2041,6 +2051,8 @@ https://iko-live.akamaized.net/MedMusicTV/master.m3u8
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", RONAHI TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", RONAHI TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", KURDISTAN 24
@@ -3415,6 +3427,8 @@ https://htvint.mada.ps/orient/index.m3u8
 https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png", PALESTINIAN TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png", PALESTINIAN SAT
+https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png", YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png", YEMEN SHABAB
@@ -3553,6 +3567,8 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇰🇼科威特" tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png", KUWAIT TV NEWS
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇼科威特" tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png", KUWAIT TV NEWS
+https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8
 #EXTINF:-1 group-title="🇰🇼科威特" tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png", KUWAIT TV ARAB
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇰🇼科威特" tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png", KUWAIT TV ETHRAA
@@ -3927,6 +3943,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png", MBC DRAMA PLUS
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png", MBC DRAMA PLUS
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png", MBC MASR 1
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 group-title="🇪🇬埃及" tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png", MBC MASR 1
@@ -4953,6 +4971,8 @@ https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 #EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png", GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png", GB NEWS
+https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8
 #EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png", GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 group-title="🇬🇧英格兰新闻" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png", GB NEWS
