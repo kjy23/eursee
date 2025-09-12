@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://www.open-epg.com/files/uae2.xml.gz" 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://www.open-epg.com/files/uae2.xml.gz" 
 #EXTINF:-1 tvg-id="MBC 2 HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="Movies",MBC 2 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1058030&extension=ts&play_token=WaDW2Ji0Eg
 #EXTINF:-1 tvg-id="MBC Max HD.ae" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="Movies",MBC Max 
@@ -12,13 +12,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MoviesThriller.webp" group-title="Movies",MBC Movies Thriller 
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
 
-#EXTINF:-1 tvg-id="CANAL+CINEMA.S.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusCinema.png",Canal+ Cinema 
 http://noruqfx.top:8080/live/191703089055131/01703089055686/8001.ts
-#EXTINF:-1 tvg-id="CANAL+BOX.OFFICE.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
+#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CPlusBoxOffice.png",Canal+ Box Office 
 http://noruqfx.top:8080/live/191703089055131/01703089055686/58335.ts 
-#EXTINF:-1 tvg-id="CANAL+GRAND.ECRAN.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CplusGE.png",Canal+ Grand Ecran 
 http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:5c:9d:10&stream=274712&extension=ts&play_token=IOPGmx2hiD
-#EXTINF:-1 tvg-id="CANAL+.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
+#EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlus.png",Canal+ France  
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=148474&extension=ts&play_token=oRIhgarqkq 
 
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="Movies" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg",SkyCinema Premiere 
@@ -207,7 +207,7 @@ http://newultra.xyz:8080/live/930920230tv/x535utfg45/264505.ts
 http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228301.ts 
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275670&extension=ts&play_token=0rygPAB7C7 
-#EXTINF:-1 tvg-id="CANAL+.DOCS.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/CanalPlusDocs.png",Canal+ Docs 
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery.Channel.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.jpg",Discovery Channel 
 http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/9769.ts 
