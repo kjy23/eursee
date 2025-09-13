@@ -57,6 +57,8 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", BLOOMBERG FR
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", BLOOMBERG FR
+https://995e2d68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9CbG9vbWJlcmdUVkZyYW5jZV9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg", BLOOMBERG PLUS FR
 https://cd0ccbe625b34fcb91d4c0060dab13d7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Bloomberg-1/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/cCXgWWw/tvfinance.jpg", TV FINANCE
@@ -176,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTc2NDcwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU3NjMyNjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.abqM53qx0xSoHRhASMQbJMmAmeCXVoKq-bALgqK2VLs/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTc3MzM0OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU3NzE5MDkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.MefrUGnKSYwUqbDb6NHQ9hFrBa36rGzuLhcauU85Bn0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTc2NDg0MDMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1NzYzNDAwMywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.TK443qiu-HnWmCWheznZ1Tx9FyYgNyb3qIkiBJ34A6w/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTc3MzQ4MDksImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1NzcyMDQwOSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.3UZcBY4UsCeDvqoOPmJAmKVn-Io24GKNFrQ3zInjmyk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -214,7 +216,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png", TMC
 https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png", NOVO 19
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/tptHDpDv/t18.png", T18 
@@ -461,6 +463,10 @@ https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/
 https://d1epkvgkeqefgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-myfiyxckorqab/257aeb10-abc9-4b30-952c-2c6775eb768d/2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/xqMPP7j/famclub.png", FAMILY CLUB
 https://d3kwy5wwq7dpr1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5ty5rugo8lr9f/famcl.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png", ACTION TOTALE ADRÉNALINE
+https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/QjfcpDMC/100cine.png", 100% CINÉMA
+https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-cinemachannel-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png", SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png", SONY ONE HITS COMEDIE
