@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTg1MTEwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4NDk2NjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.-cl05kU0VZDMoevDqcdu8shPhA078SML5RoEC2p9L6U/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTg1OTAyOTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4NTc1ODkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Jn-eC5qaBxoCe9uGi1xU0nc3vOZLwi3QcT0Y-m9xqW8/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTg1MTI0MTcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODQ5ODAxNywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.jUaKSDEMprnEW6zfdDqefrw9MIFw5IjdWhzSmhsJTXQ/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTg1OTg4MDIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODU4NDQwMiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.R-ctIMnXEG1USV5U3xBdwLoA6zh8maYHV7XyHfTL9I8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -3235,6 +3235,8 @@ https://starmenajo.com/hls/almasar/index.m3u8
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
 #EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png", ALAWLA TV
 https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png", ALAWLA TV
+https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="🇮🇷伊朗" tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png", ASSIRAT
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿联酋" tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png", SHARJAH TV
@@ -3353,8 +3355,6 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/mCVgF7j7/hadra.png", HADRHRAMAUT
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
-#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png", ALAWLA TV
-https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg", AL JAYLIA
 https://media2.livaat.com/AL-Jaleyah/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/vxHjssjg/ahad.png", AHAD TV
@@ -3425,6 +3425,16 @@ https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png", PALESTINIAN SAT
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg", WATTAN PS
+https://htvmada.mada.ps:4443/wattan/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg", RAYA PS
+https://htvmada.mada.ps:4443/raya/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg", RAYA 2 PS
+https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg", RAYA 3 PS
+https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8
+#EXTINF:-1 group-title="🇸🇦沙特阿拉伯" tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg", WATAR PS
+https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/0yytb9K/yementoday.png", YEMEN TODAY
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="🇾🇪也门" tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png", YEMEN SHABAB
@@ -3503,6 +3513,8 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", KAS QATAR 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", KAS QATAR 1
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoicft/master.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", KAS QATAR 2
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 #EXTINF:-1 group-title="🇶🇦卡塔尔" tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png", KAS QATAR 3
