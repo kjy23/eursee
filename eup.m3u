@@ -226,7 +226,7 @@ http://mytv-extra.com:88/live/1827214806/9371309264/756.ts
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png" group-title="🇫🇷法兰西公共", France 24
 http://mytv-extra.com:88/live/1827214806/9371309264/755.ts
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
-http://4kgood.org:8080/live/Ramzifr123/vo3nk9kki6/148461.ts 
+http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=148461&extension=ts&play_token=e4hkqukOLZ 
 #EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
 http://noruqfx.top:8080/live/191703089055131/01703089055686/8113.ts 
 #EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
