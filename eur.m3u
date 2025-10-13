@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjAyMzkwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwMjI0NjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.1cu8Km-7YUpfuMZrV6OvnQQPrU8jZo-7juOgDKXjlvM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjAzMjU1MzgsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwMzExMTM4LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.wyoeBcXgL7Pgzb2Kr4CRqMifQS6nQ61gKji1-2utEDI/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjAyNDA0MjYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDIyNjAyNiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.pX-w4d0L_qgAqCvhKrZlf-pZzdmBZK-h2LTLeRdsl98/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjAzMjY4MTgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDMxMjQxOCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.hKDQBq2cc0i8E5XbUJ_IUJtQBr0BjAwJ2pS1Of8E0Pg/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -516,7 +516,7 @@ https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png", ALLO CINÉ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png", RAKUTEN TOP FILMS
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png", RAKUTEN ACTION FILMS
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png", RAKUTEN COMEDY FILMS
@@ -749,8 +749,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/infos/b
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/CPZ00LY/labrise.jpg", LA BRISE HAÏTI
 http://lakay.online/public/telelabrise/playlist.m3u8
-#EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/kcPbyTD/tntv.png", TNTV
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/kcPbyTD/tntv.png", TAHITI NUI TNTTV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/MbCC63L/Tahitinuitnttv.png", TAHITI NUI TNTTV
+https://tntv-samsung-fr.amagi.tv/amRdirect/device/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png", ETV GUADELOUPE
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg", FUSION TV
@@ -1128,7 +1130,11 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
-http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
+http://95.174.71.114/TR-STAR/index.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
+http://cdn-tr.tivimivi.com/streams/118/master.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
+https://trn03.tulix.tv/gt-star-tv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
 https://live20.bozztv.com/trn09/gin-startv/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png", STAR 
@@ -1202,7 +1208,9 @@ https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV 
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
+http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
