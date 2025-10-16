@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjA0OTgyOTQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwNDgzODk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.A9nxQxXqeBCKyG4uu7z8JymCTV0wtcdhgi4BWGWYBwk/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjA1ODQ3MzQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwNTcwMzM0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.IW62dppiC18zaaM1xMBlEKd-V4CnxS6T9e0MiAFIHug/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjA0OTk2MDYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDQ4NTIwNiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.yTh_L3CkeVjQMlSe-fcGZQ78pevHFeovMwLOAlUldtY/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjA1ODYwMDMsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDU3MTYwMywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.2DzB1CK81FtUAtqHFFiHoD2d6sG-HsNUSUW0tk1UH9s/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -1078,7 +1078,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png", TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="🇬🇷希腊" tvg-logo="https://i.ibb.co/PmDyTX6/star.jpg", STAR
@@ -1115,8 +1115,6 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea99
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png", TRT 1 
 http://95.174.71.114:80/TR-TRT1/index.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D 
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D 
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png", KANAL D 
@@ -1236,13 +1234,13 @@ https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/8dQdNrv/akilli22.png", AKILLI TV
 https://yayin.santraltr.com/hls/akillitv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png", DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png", DMAX
-https://dmax.blutv.com/blutv_dmax2/live.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png", TLC TR
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png", TLC TR
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png", TLC TR
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png", 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png", 360
@@ -1335,8 +1333,6 @@ http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 http://canli.haber365.com.tr/tr/dmax/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png", TLC TR 
 http://canli.haber365.com.tr/tr/tlc/index.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png", TLC TR 
-http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png", TLC TR 
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:-1 group-title="🇹🇷土耳其纪录与生活" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png", 360 
@@ -2828,21 +2824,21 @@ https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png", MEDI 1 FR العربية
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png", AL AOULA LAÂYOUNE الأولى
-https://oppomu.serv00.net/ma15/malaayoune.php?m3u8
+https://oppomu.serv00.net/maro15/malaayoune.php?m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png", AL AOULA INT الأولى
-https://xddrts.alwaysdata.net/ma15/maaloula.php?m3u8
+https://xddrts.alwaysdata.net/maro15/maaloula.php?m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png", ARRYADIA الرياضية
-https://oppomu.serv00.net/ma15/maarry.php?m3u8
+https://oppomu.serv00.net/maro15/maarry.php?m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png", ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/ma15/maarrytnt.php?m3u8
+https://cdnet.alwaysdata.net/maro15/maarrytnt.php?m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png", ATHAQAFIA الثقافية
-https://oppomu.serv00.net/ma15/maarrabia.php?m3u8
+https://oppomu.serv00.net/maro15/maarrabia.php?m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png", AL MAGHRIBIA المغربية الإخبارية
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png", ASSADISSA القرآن الكريم
-https://xddrts.alwaysdata.net/ma15/maassadi.php?m3u8
+https://xddrts.alwaysdata.net/maro15/maassadi.php?m3u8
 #EXTINF:-1 group-title="🇲🇦摩洛哥" tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png", TAMAZIGHT الأمازيغية
-https://cdnet.alwaysdata.net/ma15/matamaz.php?m3u8
+https://cdnet.alwaysdata.net/maro15/matamaz.php?m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIA 1
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇳突尼斯" tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png", WATANIA 1
