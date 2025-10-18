@@ -62,7 +62,7 @@ http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128
 http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2127 
 
 #EXTINF:-1 tvg-id="Dubai One" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="🇦🇪阿联酋", Dubai One
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2191.ts 
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
 http://viphlvp.xyz:8080/VIP01751755616068569/16cf1b37b98a/6516 
 #EXTINF:-1 tvg-id="OSN YAHALA Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYAHALAAflam.png" group-title="🇸🇦沙特阿拉伯", OSN YAHALA Aflam
@@ -154,15 +154,15 @@ http://rt-arab.secure.footprint.net:80/1104.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8 
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/192831.ts
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202465.ts
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202466.ts 
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd 
 #EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202467.ts
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png" group-title="🇫🇷法兰西公共", FRANCE 5
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/202468.ts
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 tvg-id="TV5 Style HD" tvg-logo="https://mchoumi.github.io/LOGOs/TV5StyleHD.png" group-title="🇫🇷法兰西公共", TV5 Style HD
 http://mytv-extra.com:88/live/1827214806/9371309264/752.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Style.png" group-title="🇫🇷法兰西公共", TV5 Style
@@ -170,9 +170,9 @@ http://newultra.xyz:8080/live/930920230tv/x535utfg45/264505.ts
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=1935329&extension=ts&play_token=2UDDqq1v9w
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
-http://atlas213.xyz:80/live/Nesrine/cFNVanZ2dx/228301.ts 
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8 
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
-http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275670&extension=ts&play_token=0rygPAB7C7 
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸 美国+", Discovery Channel
