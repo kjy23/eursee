@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg", LE MÉDIA TV 
 https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg", LE MÉDIA TV 
-https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
+https://tvradiozap.eu/tools/dm-m3u8.php/x8dtuir?m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png", FRANCE 24 FR 
 https://new.cache-stream.workers.dev/channel/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png", LCP-AN 
@@ -178,9 +178,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjA5MzAzMzQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwOTE1OTM0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.0fd7_vsrFbSjkn-hLu1qyloVrrKl9X71_C07eAGVnv0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjEwMDU4OTUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwOTkxNDk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.T_F0gM-8ocTOXKEWePazUAS-E_RsvSEcieV21sJ0rgQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjA5MzE2MTgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDkxNzIxOCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.rKtC-qIZ9yrQ5Mf7hsSamEvLEEUYyOvIet7E_zqz4Qk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjEwMTgwMzksImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MTAwMzYzOSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.pkcTsY8EbkIlVVaVT8-UGDnVGQ16bZukWIfeJPonWgk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -189,6 +189,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png", FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png", FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png", FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png", FRANCE TV DOCUMENTAIRES
@@ -352,9 +354,7 @@ https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f9
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png", L'ÉSPRIT SORCIER TV
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg", SQOOL TV
-https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
-#EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg", SQOOL TV
-https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
+http://tvradiozap.eu/tools/yt-m3u8.php/@sqooltv.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/443jKxq/techco.png", TECH&CO
 https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/443jKxq/techco.png", TECH&CO
@@ -377,6 +377,8 @@ https://tvradiozap.eu/tools/dm-m3u8.php/720/x89yjnn.m3u8
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png", MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/dwFBgZxp/rustica.jpg", RUSTICA - NATURE & AGRO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg", NATURE TIME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg", NATURE TIME
@@ -644,7 +646,7 @@ https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png", TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/WpSPwkN/7alim.png", 7A LIMOGES
-https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
+https://tvradiozap.eu/tools/yt-m3u8.php/@7alimoges.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/zRLKgFS/alpehuez.png", ALPE D'HUEZ TV
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/61mqv2h/biptv.png", BIP TV
@@ -679,16 +681,14 @@ https://live-weo.digiteka.com/1189023466/index.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png", MAURIENNE TV
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/MaurienneTV.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/MMDSDQ9/maurienne.png", MAURIENNE TV
+https://tvradiozap.eu/tools/yt-m3u8.php/@MaurienneTV-fr.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png", LA CHAÎNE 32
 https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/VNDPTDY/tgohelle.png", TÉLÉ GOHELLE
 https://videas.agglo-lenslievin.fr/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png", TVPI BAYONNE
-https://ythls-v3.onrender.com/video/yTOjGPiFseY.m3u8
-#EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png", TVPI BAYONNE
-https://new.cache-stream.workers.dev/stream/UCwVQAPo6tjC5w5yBBh0WEdA/live.m3u8
-#EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/6W98gzZ/tvpi.png", TVPI BAYONNE
-https://ythls.armelin.one/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8
+http://tvradiozap.eu/tools/yt-m3u8.php/@TVPIOfficiel.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png", PUISSANCE TÉLÉVISION
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/Tr2b0gV/natv.png", NA TV
@@ -702,7 +702,7 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/QYJL1N7/tarn.png", TV TARN
 https://live.creacast.com/albi-tv-ch1/stream/master.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/Jk1ND0P/mosaik.png", MOSAIK CRISTAL TV
-https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
+https://tvradiozap.eu/tools/yt-m3u8.php/@mosaiktv.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png", TV8 MONTBLANC
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/74fJt5v/8mblanc.png", TV8 MONTBLANC
@@ -726,9 +726,9 @@ https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ValloireTV.m3u
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/gj4ZGdY/n31.jpg", N31
 https://github.com/Sibprod/streams/raw/main/ressources/dm/py/hls/n31.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/c2CBDqt/grenoble.png", TÉLÉ GRENOBLE
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/Telegrenoble.m3u8
+http://tvradiozap.eu/tools/yt-m3u8.php/3zYlVLoE_yE.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/nccDkr5/lmtv.png", LM TV SARTHE
-https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/LMTVSarthe.m3u8
+http://tvradiozap.eu/tools/yt-m3u8.php/r1mbPY0BlYk.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/2qs2HxR/astv.png", ASTV
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/ASTV.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西本土" tvg-logo="https://i.ibb.co/yRLR4Ny/tl7l.png", TL7 LOIRE
@@ -757,6 +757,8 @@ https://tntv-samsung-fr.amagi.tv/amRdirect/device/hls/amagi_hls_data_samsungfr-t
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg", FUSION TV
 https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/SwvbkW2V/peyi.jpg", TÉLÉ PEYI GUYANE
+https://edge16.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png", LA 1ÈRE MARTINIQUE 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1mar.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西属地" tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png", LA 1ÈRE GUADELOUPE 
@@ -887,10 +889,14 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png", HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png", TELE 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png", NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg", NOKTA TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png", TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png", TELE 1
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tele_1.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png", LİDER HABER
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png", ULUSAL KANAL
@@ -1534,7 +1540,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其音乐" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png", KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其音乐" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png", KRAL - KRAL POP
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
 #EXTINF:-1 group-title="🇹🇷土耳其音乐" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png", DREAM TÜRK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其音乐" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png", POWER TÜRK
@@ -1793,6 +1799,8 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", GRT GAZİANTEP TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", GÜNE DOĞUŞ TV
+http://cdn-expovizyontv.yayin.com.tr/expovizyontv/expovizyontv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", GÜNEY TV TARSUS
 https://edge1.socialsmart.tv/guneytv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", GÜNEYDOĞU TV
@@ -1921,6 +1929,8 @@ http://cdn-postatv.yayin.com.tr/postatv/postatv/playlist.m3u8
 http://yayin25.canliyayin.org:1935/live/kardestv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", RİZE TÜRK TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", RİZE HABER
+http://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", SARIYER TV İST
 http://s01.vpis.io/sariyer/sariyer.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", SILKWAY KAZAKH 
@@ -2105,6 +2115,8 @@ https://muzkurd.com/sterktv/sterk/playlist.m3u8
 https://live.tvkomala.com/live/komala/chunks.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", WELAT TV
 http://stream.welattv.net:1935/welat/tv/.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", WELAT TV
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", JÎN TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其库尔德" tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png", CÎHAN TV
@@ -4503,6 +4515,10 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad
 https://live-stream-channels-cdn.site/live/az.m3u8
 #EXTINF:-1 group-title="🇦🇿阿塞拜疆" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", CBC
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", CBC S
+http://str.yodacdn.net/cbcsport/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", CBC S
+https://str.yodacdn.net/cbcsport/index.m3u8
 #EXTINF:-1 group-title="🇦🇿阿塞拜疆" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", BAKU TV
 https://rtmp.baku.tv/streams/bakutv.m3u8
 #EXTINF:-1 group-title="🇦🇿阿塞拜疆" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png", MEDENİYYET
