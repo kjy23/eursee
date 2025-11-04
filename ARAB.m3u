@@ -85,6 +85,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636857241081823413fdce3c15-a4eb-4743-a182-a60dfc7de0eb.png" ,البحرين القرآن الكريم
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯"  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯"  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
+http://69.64.57.208/canalalgerie/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯"  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯"  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
@@ -208,35 +212,35 @@ https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="http://www.marinafm.com/images/Logo_MarinaFM.png" ,Marina FM TV
 https://ffs.gulfsat.com/Marina-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="AlAoula.ma" tvg-logo="https://i.ibb.co/WcFBy41/oula.png"  ,Al Oula الأولى 
-https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+https://xddrts.alwaysdata.net/maa66/maaloula.php?m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/GQmw3nx/laayoune.png" ,Al Oula Laayoune الأولى العيون 
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
+https://oppomu.serv00.net/maa66/malaayoune.php?m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="2MMonde.ma" tvg-logo="https://i.ibb.co/dDMQrHP/2m.jpg" ,2M الثانية 
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8|Referer=https://2m.ma
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/3rhwnSg/sport.png" ,Arriadia الرياضية 
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+https://oppomu.serv00.net/maa66/maarry.php?m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/3rhwnSg/sport.png" ,Arriadia الرياضية tnt
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
+https://cdnet.alwaysdata.net/maa66/maarrytnt.php?m3u8 
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/QmtWTRL/culture.png" ,Arrabiaa الثقافية 
-https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+https://oppomu.serv00.net/maa66/maarrabia.php?m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/2PjWfqm/news.png" ,Al Maghribia المغربية الإخبارية 
-https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/Vjjy179/quran.png" ,Assadissa القرآن الكريم 
-https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
+https://xddrts.alwaysdata.net/maa66/maassadi.php?m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/dW861WG/tamazight.png" ,Tamzighth الأمازيغية 
-https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+https://cdnet.alwaysdata.net/maa66/matamaz.php?m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/KFRvWx7/telemaroc.png" ,Télé Maroc قناة المغرب 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tlma.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/kQ2Srv7/m24.png" ,M24 وكالة المغرب العربي للأنباء
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1880481615_b1396000.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi 1 العربية
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi1 المغرب
-http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="Med1.tv.Afrique.ma" tvg-logo="https://i.ibb.co/sjfvWL2/m1.jpg" ,Medi 1 Afrique
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" ,Chada TV شدى 
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+https://edge14.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.radiomars.ma/wp-content/uploads/2025/05/RADIOMARS_LOGO-3.png" , راديو MARS 
 https://edge18.vedge.infomaniak.com/livecast/ik:radiomars/chunklist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" ,اليمن 1 
@@ -267,6 +271,8 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" ,جوهرة
 https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.radionationale.tn/images/logos/logo-watania.svg",الإذاعة التونسية
+https://tv.radiotunisienne.tn/radiotn/nationale_video/chunklist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://ltv.l-television.com/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
@@ -323,6 +329,8 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="AlAraby2.ma" tvg-logo="https://www.alaraby.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg" ,العربي 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" ,LBC
+http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.mtv.com.lb/images/header/mtv-logo.svg" ,MTV Lebanon
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nbn.png" ,NBN
@@ -459,3 +467,7 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png", CGTN العربية
 https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
