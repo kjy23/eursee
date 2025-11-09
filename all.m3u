@@ -186,9 +186,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjI1NjgyOTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyNTUzODkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.jr2R3GhBG_tFB8jTCWTEtyzVR9VQspUT5-tfJhY9lPE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjI2NTQ2OTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYyNjQwMjkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Z-mcNgOG8M3Z28dXtge0sChHXrZA060bNSQQNHY3zFM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjI1NzMyNTIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjU1ODg1MiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.Y311iSY_zodz_xLRrlMqzvnxLIRdfda4GO58SBP9XNo/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjI2NTYxMDIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MjY0MTcwMiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.nCgCfyd0PmF9hmiuNoQsRtCkr0OY8LY7NEsIckRUdFU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
@@ -351,6 +351,20 @@ https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8?ads_amagi_channel=916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CtD77v/vevo90.png",VEVO 90 00
 https://d1f0sy6q94jy8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-emgxxi50294g2/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",EMOTION MUSIC
+https://amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",QWEST JAZZ
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",CLASSICA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",DJAZZ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3037
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",MOVIE MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",QELLO CONCERTS 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7kyGdtG/Qello.png",QELLO CONCERTS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
 https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
@@ -397,6 +411,28 @@ https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servi
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
 https://d2py8vfwz3u72y.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5940
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+https://stream.ads.ottera.tv/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spnvQmbV/popcorn.png",POPCORN
+https://stream-us-east-1.getpublica.com/cl/251108d47gn8r1ht77elj9aci0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA CONSO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10244
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA MAISON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10247
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA PLANETE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10248
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA SANTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10245
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA SCIENCES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10243
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",FUTURA TECH
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10246
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rcTV8C/festcannes.jpg",FRANCE TV FESTIVAL DE CANNES (EVENT)
 https://evenementiel_mai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHF5PHD4/Mieux.png",MIEUX TV
@@ -423,6 +459,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg",NATURE TIME
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1tzH0W/destnat.png",DESTINATION NATURE
+https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk1wjB8k/Lovepla.png",LOVE THE PLANET
+https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png",TV5MONDE+ VOYAGE
@@ -617,6 +657,8 @@ https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0psZzs4S/scream.jpg",SCREAM IN
+https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin-lg/playlist.m3u8
 
 
 #EXTINF:-1 group-title="6. |FR|🇫🇷 LOCALES - RÉGIONALES",--- |FR:🇫🇷 FRANCE MÉTROPOLITAINE| ---
@@ -958,7 +1000,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
@@ -1051,6 +1093,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER (backup)
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/sozcu-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV (backup)
@@ -1200,9 +1244,9 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=UOoOMHkWH4inz-rDEoJ6KQ&e=1762564670
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=xr_v_jxTeM5qqSpo4E0Kbw&e=1762651071
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=UOoOMHkWH4inz-rDEoJ6KQ&e=1762564670
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=xr_v_jxTeM5qqSpo4E0Kbw&e=1762651071
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
