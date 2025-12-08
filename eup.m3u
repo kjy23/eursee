@@ -14,13 +14,13 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
 
 #EXTINF:-1 tvg-id="Canal+ Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Cinema.png" group-title="🇫🇷法兰西公共", Canal+ Cinema
-http://pgeffordgef.top:8080/live/9991743860333705/0a1a22d4ca41/8001.ts
+http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=554002&extension=ts&play_token=ajwRjM6Sq8
 #EXTINF:-1 tvg-id="Canal+ Box Office" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice.png" group-title="🇫🇷法兰西公共", Canal+ Box Office
-http://pgeffordgef.top:8080/live/9991743860333705/0a1a22d4ca41/58335.ts 
+http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=960977&extension=ts&play_token=3R1N20zTZl 
 #EXTINF:-1 tvg-id="Canal+ Grand Ecran" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+GrandEcran.png" group-title="🇫🇷法兰西公共", Canal+ Grand Ecran
-http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B6:23:10&stream=863798&extension=ts&play_token=1rGrsbxPwy
+http://185.243.7.101:80/play/live.php?mac=00:1A:79:6D:4C:46&stream=690986&extension=ts&play_token=fnajaQPSHE
 #EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
-http://pgeffordgef.top:8080/live/9991743860333705/0a1a22d4ca41/8000.ts 
+http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/418.ts 
 
 #EXTINF:-1 tvg-id="SkyCinema Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaPremiere.png" group-title="🇬🇧英格兰+", SkyCinema Premiere
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts 
