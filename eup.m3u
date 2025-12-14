@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/130783.ts
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://zeintv.xyz:8080/live/393452883A/4294683570/274949.ts 
+http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/6431.ts 
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/6424.ts 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -40,13 +40,13 @@ http://mytv-extra.com:88/live/1827214806/9371309264/401534713.ts
 #EXTINF:-1 tvg-id="OSN Movies Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMoviesFamily.png" group-title="🇸🇦沙特阿拉伯", OSN Movies Family
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN MOVIES Hollywood HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESHollywoodHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES Hollywood HD
-http://mytv-extra.com:88/live/1827214806/9371309264/39681.ts 
+http://161.123.116.21:80/live/Raymond/Raymond12/1689992.ts 
 #EXTINF:-1 tvg-id="OSN MOVIES ACTION HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESACTIONHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES ACTION HD
-http://mytv-extra.com:88/live/1827214806/9371309264/400652587.ts 
+http://161.123.116.21:80/live/Raymond/Raymond12/1689991.ts 
 #EXTINF:-1 tvg-id="OSN MOVIES PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESPREMIERE.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES PREMIERE
 http://mytv-extra.com:88/live/1827214806/9371309264/400652586.ts 
 #EXTINF:-1 tvg-id="OSN COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNCOMEDY.png" group-title="🇸🇦沙特阿拉伯", OSN COMEDY
-http://mytv-extra.com:88/live/1827214806/9371309264/378779.ts 
+http://161.123.116.21:80/live/Raymond/Raymond12/1689989.ts 
 
 #EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://mchoumi.github.io/LOGOs/HBOMax.png" group-title="🇺🇸 美国+", HBO Max
 http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
@@ -95,7 +95,7 @@ https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr1.png" group-title="🇪🇬埃及", MBC Masr 1
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Masr 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="🇪🇬埃及", MBC Masr 2
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8 
+http://161.123.116.21:80/live/Raymond/Raymond12/1690068.ts 
 #EXTINF:-1 tvg-id="MBC Plus Drama" tvg-logo="https://mchoumi.github.io/LOGOs/MBCPlusDrama.png" group-title="🇸🇦沙特阿拉伯", MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8 
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAbuDhabi.png" group-title="🇦🇪阿联酋", National Geographic Abu Dhabi
