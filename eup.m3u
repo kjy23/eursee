@@ -314,13 +314,13 @@ http://mytv-extra.com:88/live/1827214806/9371309264/652.ts
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1698053
 #EXTINF:-1 tvg-id="BEIN SPORTS NEWS" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSNEWS.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS NEWS
 http://dua-doa.me:80/play/live.php?mac=00:1A:79:3b:7f:91&stream=1294773&extension=ts&play_token=5x0xECqd6q
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax1.png" group-title="Sports",BEIN SPORTS MAX 1 
+#EXTINF:-1 tvg-id="BeinMax1" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax1.png" group-title="Sports",BEIN SPORTS MAX 1 
 http://mytv-extra.com:88/live/1827214806/9371309264/11.ts 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN SPORTS MAX 2 
+#EXTINF:-1 tvg-id="BeinMax2" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax2.png" group-title="Sports",BEIN SPORTS MAX 2 
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/836.ts 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 3 
+#EXTINF:-1 tvg-id="BeinMax3" tvg-name="BEIN SPORTS MAX 3" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 3 
 http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/837.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 4 
+#EXTINF:-1 tvg-id="BeinMax4" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://mchoumi.github.io/LOGOs/beINSportsMax4.png" group-title="Sports",BEIN SPORTS MAX 4 
 http://mytv-extra.com:88/live/1827214806/9371309264/14.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS GLOBAL HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSGLOBALHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS GLOBAL HD
 http://m1.webvps.de:25443/live/Socrate1/L3T8DCD7UR/30750.ts 
