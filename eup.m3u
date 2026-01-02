@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/130783.ts
+http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/7413.ts
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/130807.ts 
+http://sky-tv.org:88//live/YIOVZSE3LG/FAHVQYJRGD/7409.ts 
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://mag.redmytv.com:80/957A43DDF228263/82C4108405C6527/1446591 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -27,15 +27,15 @@ http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts
 #EXTINF:-1 tvg-id="SkyCinema Action" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaAction.png" group-title="🇬🇧英格兰+", SkyCinema Action
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47813.ts
 #EXTINF:-1 tvg-id="SkyStore Premier 1" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier1.png" group-title="🇬🇧英格兰+", SkyStore Premier 1
-http://mytv-extra.com:88/live/1827214806/9371309264/401534717.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/1019373.ts 
 #EXTINF:-1 tvg-id="SkyStore Premier 2" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier2.png" group-title="🇬🇧英格兰+", SkyStore Premier 2
-http://mytv-extra.com:88/live/1827214806/9371309264/401534716.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/1019372.ts 
 #EXTINF:-1 tvg-id="SkyStore Premier 3" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier3.png" group-title="🇬🇧英格兰+", SkyStore Premier 3
-http://mytv-extra.com:88/live/1827214806/9371309264/401534715.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/1019371.ts 
 #EXTINF:-1 tvg-id="SkyStore Premier 4" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier4.png" group-title="🇬🇧英格兰+", SkyStore Premier 4
-http://mytv-extra.com:88/live/1827214806/9371309264/401534714.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/1019370.ts 
 #EXTINF:-1 tvg-id="SkyStore Premier 5" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier5.png" group-title="🇬🇧英格兰+", SkyStore Premier 5
-http://mytv-extra.com:88/live/1827214806/9371309264/401534713.ts 
+http://mytv-extra.com:88/live/1827214806/9371309264/1019369.ts 
 
 #EXTINF:-1 tvg-id="OSN Movies Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMoviesFamily.png" group-title="🇸🇦沙特阿拉伯", OSN Movies Family
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
