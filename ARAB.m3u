@@ -283,13 +283,17 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 https://tv.radiotunisienne.tn/radiotn/nationale_video/chunklist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://ltv.com.lb/static/media/logo192.77249c382d0e8590dcce.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,حلب اليوم
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://syriaone.tv/_next/image?url=%2Flogo.png&w=256&q=75" ,Syria ONE
+https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://www.althania.tv/themes/custom/althania/assets/images/logo-white.svg" ,الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" ,الـــيوم
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://ronahi.tv/ar/wp-content/uploads/2019/05/logoronahi.png" ,روناهي 
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+#EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://ronahi.tv/wp-content/uploads/2025/08/logoronahi-4.png" ,روناهي 
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://rojavatv.net/wp-content/uploads/2024/02/rojavalogonew.png" ,روجافا 
 https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
@@ -432,11 +436,11 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" ,الجزيرة الوثائقية 
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" , الجزيرة الإخبارية
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,الجزيرة مباشر
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" ,2الجزيرة مباشر
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="AlArabiya.nws" tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" , العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/sw6tV5W/alhadath.jpg" ,العربية الحدث
@@ -450,7 +454,7 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/qxJbQHP/alaraby.png" , العربي
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75" , القاهرة الإخبارية
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+https://fastly.live.brightcove.com/1843520572297019367/eu-central-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXltc3VjLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjA1NzIyOTcwMTkzNjcifQ.VDAy1TCwzlhiHq7touUEdjjhIJL8dl-x5KiSVpjOKWc/chunklist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" , روسيا اليوم
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪阿拉伯" tvg-id="" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png" ,الحـــوار
