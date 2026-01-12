@@ -206,9 +206,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjgwOTc4OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4MDgzNDk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.C0gLHbk91Ftq3XgogDIyC_Z5wU8rSdA7gxVm8Yz1wHA/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjgxODQzNTcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4MTY5OTU3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.275CQCX5E_9SM6PMJEiBHmHqrfQMCQWCZdykjQ8FYDE/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjgxMDMwMDUsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODA4ODYwNSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.qvu2W31KcyayYQjWJ8BI0CXaGDrCIqMT3Hm9AjqJlyo/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjgxODk0NDIsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODE3NTA0MiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.lV6DDtGME4G6YZxTLI19pZAjjcSV-t-f_EXHYTDwMtA/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -571,6 +571,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png", L'ÉQUIPE TV
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipe.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png", L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 3 EVENTS
 https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 4 EVENTS
@@ -1148,6 +1150,8 @@ https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png", TV 100 
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png", CNN TÜRK 
+https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png", CNN TÜRK 
 https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png", CNN TÜRK 
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
@@ -1240,7 +1244,7 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png", SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV
@@ -1263,6 +1267,8 @@ https://tv-trt1-dash.medya.trt.com.tr/master.mpd
 https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png", TRT 1 
 https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png", TRT 1 
+https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png", TRT 1 
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png", TRT 1 
@@ -1305,6 +1311,8 @@ https://canlitvulusal.xyz/live/showtv/index.m3u8
 http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png", SHOW 
 http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
 https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png", NOW 
@@ -1367,6 +1375,8 @@ https://trkvz.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png", ATV 
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
+#EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
 http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其公共" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png", TV8 
@@ -1525,30 +1535,20 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ce=3
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png", SIFIR TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png", SIFIR TV
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/sifir-tv.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png", BIS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png", BIS HABER
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/HLw2sW7P/mackolik.png", MAÇKOLİK TV
-https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png", FENERBAHÇE TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png", FENERBAHÇE TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV
-https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg", EKOL SPORTS
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg", EKOL SPORTS
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ekol_Spor.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png", TRT SPOR 
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png", TRT SPOR 
@@ -1657,8 +1657,10 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png", TRT ÇOCUK 
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png", SPORTS TV 
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg", EKOL SPORTS 
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/HLw2sW7P/mackolik.png", MAÇKOLİK TV 
+https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR 
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/aspor.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其少儿/体育" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png", A SPOR 
@@ -1961,6 +1963,8 @@ http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", EDESSA TV ŞANLIURFA
 https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", EGE MAX TV İZMİR
+http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", ELMAS TV ZONGULDAK
 https://edge1.socialsmart.tv/elmastv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其本地" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png", ER TV MALATYA
@@ -4585,6 +4589,10 @@ https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/link
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 group-title="🇵🇱波兰" tvg-logo="https://i.ibb.co/kx2RQ5V/polsatnews1.png", POLSAT NEWS
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/xq4QJzvk/polsatpl.png", POLSAT 2
+http://cdn-s-lb2.pluscdn.pl/ch/1455827/112/dash/cd8582f7/live.mpd
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/kx2RQ5V/polsatnews1.png", POLSAT NEWS 2
+http://cdn-s-lb2.pluscdn.pl/ch/1442864/5/dash/e7f4555f/live.mpd
 #EXTINF:-1 group-title="🇵🇱波兰" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", EURONEWS PL
 https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/e/26235/euronews-pl.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/9QBNgt8/lrt.png", LRT LITUANICA
