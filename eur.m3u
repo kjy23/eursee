@@ -116,6 +116,8 @@ https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", EURONEWS FR 
 https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", EURONEWS FR 
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", EURONEWS FR 
 https://jmp2.uk/sam-FR2600004SS.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西新闻" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png", EURONEWS FR 
 https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8
@@ -204,9 +206,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png", TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg4NzU0OTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4ODYxMDk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.ZY0X6GufzrmkWQlSdW-gtqDqrlcOj7nJsUGjatjIgS0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njg5NjE5NDcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY4OTQ3NTQ3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.YoZ_L6HZnFkc9tPWrn18rfy9A_lPgkbp1hbDWxlTzWA/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png", TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njg4ODA3MzAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODg2NjMzMCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.pM6BdqB_8ebUCcV9Pl0Sljjxx-PrCj2LDZvk5T2Fd7E/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njg5NjcyMDEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2ODk1MjgwMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.nmxafhmR-pcBnY3Kpv0AxO09xRSvak-BJQRkODh5QdM/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png", FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西公共" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png", FRANCE 3
@@ -336,7 +338,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png", FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png", FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=PsLA99ejnk32_Bur-Z89DqbSCu5hnHacMVYBYuXZTeNE4OZFsgTpeNhdwqdjtpt-smziuKM7Mc2OyYCPLBI7A1TN4rdq23EtzptJQgX5k9g
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=XkawG2S_kxa6Mi080Q42rEeB1znEV7UY4S2IPzw618oKEUarT34UwaJHlYHH_rdlgBjPTUVOIgNkdMJuqavqasWjAj8rxxPplMH7Ka3c9kM
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png", LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png", GÉNÉRATIONS TV
@@ -562,7 +564,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg", FRANCE TV SPORT
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp", SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=MlOYCEdtFoxt_MbtV38ysaPB_LAhxEPUPE0oLszSL6a1s5gtg3QmWyZTA43gXb19XBOPAv5VdeKWUg3Lv2GeesGwitQ_Q8nSioga9dunj0M
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=uyGzVayiH4weFxyZQ1BjmpiH9_UuxU9r-L6ZF1u47WkBqNerlViY95eszClSL1l7UZ5dgJD-OgYVXMoRj1qlmuMQ8GDt8ZEfjJoRhINR5e8
 #EXTINF:-1 group-title="🇫🇷法兰西综合" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png", L'ÉQUIPE LIVE 1 
@@ -1147,6 +1149,8 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png", TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png", ULUSAL KANAL
+https://canlitv.site/hls/ulusalkanal.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png", BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png", CNN TÜRK
@@ -1187,8 +1191,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/ha
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/business-channel-turk.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg", TH TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷土耳其新闻" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png", ULUSAL KANAL
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png", YENİÇAĞ TV
 https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg", NOKTA TV
@@ -3393,8 +3395,6 @@ https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJh
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png", CALCALA 10 ערוץ_הכלכלה
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png",  WALLA !+ וואלה! חדשות
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png", SPORT5 STUDIO RADIO 
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/zP5vjLD/knesset.png", HAKNESSET 99 כנסת
@@ -3409,6 +3409,10 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png", YNET NEWS ידיעות אחרונות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA !+ וואלה! חדשות
+https://live.wcdn.co.il/news/prog_index.m3u8
+#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA !+ וואלה! חדשות
+https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS FR
 https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8
 #EXTINF:-1 group-title="🇺🇸美国新闻" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png", i24 NEWS EN
@@ -3447,6 +3451,10 @@ https://x.com/i/broadcasts/1ynJOMbVYawKR/youtube/UCuxgEyMeaks7HS5gAw6Tt7w/no.m3u
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png", RELEVANT רלוונט 
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA !+ וואלה! חדשות 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA !+ וואלה! חדשות 
+https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
 #EXTINF:-1 group-title="Unknown Category" tvg-logo="https://i.ibb.co/Yc5Yf1q/sport5il.png", SPORT5 STUDIO RADIO LIVE 
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png", KAN 11 כאן 
@@ -3495,12 +3503,6 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx/manifest.mpd?dummyfile
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/3hN9N8X/tv10coil.png", CALCALA 10 ערוץ_הכלכלה 
 https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx
-#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA !+ וואלה! חדשות 
-https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8
-#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA ! + 
-https://live.wcdn.co.il/news/prog_index.m3u8
-#EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/jzRyjBn/walla.png", WALLA ! + 
-https://live.wcdn.co.il/yes/prog_index.m3u8
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/5MyMYqB/relevantil.png", RELEVANT רלוונט 
 https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
 #EXTINF:-1 group-title="🇮🇱以色列" tvg-logo="https://i.ibb.co/kq4XM0Y/ynet.png", YNET NEWS 
