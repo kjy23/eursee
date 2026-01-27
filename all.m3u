@@ -208,9 +208,9 @@ https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="2. |FR|🇫🇷 GÉNÉRALISTES 📺📀",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjkzOTM4OTUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY5Mzc5NDk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.VKxPtwJfWi_8DehAK9dD0cNyr_zOS7ezLjQzAvunRgw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3Njk0ODAzNTQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzY5NDY1OTU0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.SyUMyIP7MUUQPv16QAD4N9775pW1sXPz8C-dr6wjw1Y/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjkzOTkwODgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2OTM4NDY4OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.FIlWy5w5eEE17iIW41ZW4xPnMihf2W9Vkg5qYIUr5Tk/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3Njk0ODU2NTgsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2OTQ3MTI1OCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.2IzJKjTPdWx61TIQp_1WhJDUvXbo3Wz9uLi86yZE74o/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
@@ -354,7 +354,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=_FZ9UNZ5WVefRishtwATWPb6QArmPaYowwfpJfIQVV-w6dKmVzwlrbBA_9VFyqlgqiXQUgsQKho3UwpLb5XZ5UITXi4mj3oBBpNKvvakcr4
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=EJqY6knoSueeCMb_DJvrY5L22OUSQTUSPzhx2sEn-XGbFc5Uz_5rRXUZ9WU7PRftjO7uBIPbEZqslwUIhIh6t9UyTumEdp-6XinqipMGTPg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png",LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
@@ -568,6 +568,8 @@ https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
 https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
@@ -592,7 +594,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5GZZWKm/ftvsp.jpg",FRANCE TV SPORT
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/ftvsport.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=J0cDazBu9VxTGRFP2NesUMyyQB3Oj1LzFGc10SzACQTArWeRPR-V-altIllIPPavZUKVsOJ48-iYrg3A_QTQPPXNNbRJgBrqo85lrnrcTxc
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=j32GlRpKIPgFgBx1JjqXfmHyAog7WjOlCxStYeAU1HOTUyoXU7X-sM0YjjgjVHUMITM7jtbxXQ1Ye6X696n6Oa5WHX1z5pk88Sm3_X5QcfM
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1 (backup)
@@ -1328,6 +1330,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
 https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
+https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL (backup)
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
@@ -1446,9 +1450,9 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=mNmiQoRioNp_oNiFD5oaSQ&e=1769390640
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-bKsHIUORT9VNa6eFMEtOg&e=1769477255
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=mNmiQoRioNp_oNiFD5oaSQ&e=1769390640
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-bKsHIUORT9VNa6eFMEtOg&e=1769477255
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
@@ -3276,7 +3280,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56TvMjR/etbs.jpg",EITB DEPORTE
 https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ySq76W3/rtva.png",ANDORRA DIFUSIÓ
-https://livesg1.rtva.hiway.media/9ae50387-2b0f-4807-aec6-c8636fe200db/manifest.m3u8
+https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rxVFbs/tvcanaria.png",TV CANARIA
@@ -5266,7 +5270,11 @@ https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1 group-title="26. |EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |RO:🇷🇴 ROMANIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
-https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INF
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR CUL
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
