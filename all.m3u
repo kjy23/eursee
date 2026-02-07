@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/dailym
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" drm="ClearKey", drmkey="433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",M6 (backup)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NzAzNDQzNDgsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzcwMzI5OTQ4LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.S4zkk2aOEAk5M1m0gysWsJi3MVPs3xEi2CnFnv9R5gY/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NzA0MzA3NDgsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzcwNDE2MzQ4LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.bJ2CMTLAy26QZpXq6ER2JlrCuqamFJk7Cd9-hpqOswU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1-
 No redirect found.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
@@ -348,7 +348,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE 🎵🧒",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
-https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=VRWAk6rv3dFB_h5Ln0feQFPriUxlD9cmRfBwYJWlSslkgbsuEQNnQ-MRSt5m1MP50KmSPcQY4rf_5DoJEBrY176j_vJ3D4vNu1rWB8pEGCk
+https://cdndirector.dailymotion.com/cdn/live/video/xxtuy6.m3u8?sec=QelFxHALG-UQJlrYw3KGOiQcIcsIwVp9UXC6LSqR5YJt8vtX3eW9M-Cd1AjahWB16pMPqQywq6Sv58YSC2Lrt8Xszyf8P-dTYYp0IACkBgo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdFK5T1d/mouv.png",LE MOUV'
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/mouv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
@@ -590,7 +590,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=-7_oPaRrDmQA5zcD3tljMeMgiHK5f0RBgDIOkQgeXuYClFu7nCInrvSHiGw8ep9p-8K5iK08UUTw0ibs7SzL0haumwHYyuHKIcz7XF0gMX4
+https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=6YpRu02nE7f_CNEKkYfQX4jyMV3LfcA2G1JNZzmDUnFMphduBLNn_j2u_JESpUkv0Yj1U4ruAdwJn-qLxhMDXHsW22RiNnEopFFmhGSVKUY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1
 https://d3fikx9gxqicmt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/d903c3c9-a66d-4ed1-a922-d87a40815790/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXRbJz4/eqps.png",L'ÉQUIPE LIVE 1 (backup)
@@ -1444,9 +1444,9 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=BbnbkIHprGzWtGXT8EwRlw&e=1770341511
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=6_UglY_e6T5CYSD3JwDIYA&e=1770428222
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=BbnbkIHprGzWtGXT8EwRlw&e=1770341511
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=6_UglY_e6T5CYSD3JwDIYA&e=1770428222
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
@@ -6333,3 +6333,7 @@ http://
 http://
 #EXTINF:-1,TEST 01 🎉🥳🎊
 http://
+#EXTINF:-1,T1
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDEuODUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwNDE3ODYzLCJnaWQiOiIyOThjYWE1YmVlZWE0MWYwYWZlYmI1NTBkOGEyOGY0OCIsImlhdCI6MTc3MDQwMzQ2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjI5OGNhYTViZWVlYTQxZjBhZmViYjU1MGQ4YTI4ZjQ4In0.jpE7FM8WyJqDRCx3aHuidVpyOJFHhVHKzP_ymYmxwT0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+#EXTINF:-1,T2
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDEuODUiLCJjbWNkIjoiIiwiZXhwIjoxNzcwNDE3ODYzLCJnaWQiOiIyOThjYWE1YmVlZWE0MWYwYWZlYmI1NTBkOGEyOGY0OCIsImlhdCI6MTc3MDQwMzQ2MywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjI5OGNhYTViZWVlYTQxZjBhZmViYjU1MGQ4YTI4ZjQ4In0.jpE7FM8WyJqDRCx3aHuidVpyOJFHhVHKzP_ymYmxwT0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index_1.m3u8
