@@ -69,13 +69,13 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1440262 
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8 
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlEmaratTV.png" group-title="🇦🇪阿联酋", Al Emarat TV
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/2192 
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8 
 #EXTINF:-1 tvg-id="Dubai TV" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="🇦🇪阿联酋", Dubai TV
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1277 
 #EXTINF:-1 tvg-id="Sama Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.png" group-title="🇦🇪阿联酋", Sama Dubai
-http://mytv-extra.com:88/live/1827214806/9371309264/2557.ts 
+http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1273 
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="🇦🇪阿联酋", Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah 2" tvg-logo="https://mchoumi.github.io/LOGOs/Sharjah2.png" group-title="🇦🇪阿联酋", Sharjah 2
@@ -91,7 +91,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 #EXTINF:-1 tvg-id="MBC Drama" tvg-logo="https://mchoumi.github.io/LOGOs/MBCDrama.png" group-title="🇸🇦沙特阿拉伯", MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8 
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr1.png" group-title="🇪🇬埃及", MBC Masr 1
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Masr 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="🇪🇬埃及", MBC Masr 2
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1446594 
 #EXTINF:-1 tvg-id="MBC Plus Drama" tvg-logo="https://mchoumi.github.io/LOGOs/MBCPlusDrama.png" group-title="🇸🇦沙特阿拉伯", MBC Plus Drama
