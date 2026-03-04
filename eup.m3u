@@ -69,9 +69,9 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8 
+http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1440262 
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlEmaratTV.png" group-title="🇦🇪阿联酋", Al Emarat TV
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8 
+http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/2192 
 #EXTINF:-1 tvg-id="Dubai TV" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="🇦🇪阿联酋", Dubai TV
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="Sama Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.png" group-title="🇦🇪阿联酋", Sama Dubai
