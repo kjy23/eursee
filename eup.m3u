@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
-http://mytv-extra.com:88/live/1827214806/9371309264/22794.ts
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1446587
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/54373 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/54373 
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/54378 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/54378 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_11.m3u8 
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMoviesAction.png" group-title="🇸🇦沙特阿拉伯", MBC Movies Action
@@ -16,7 +16,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="Canal+ Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Cinema.png" group-title="🇫🇷法兰西公共", Canal+ Cinema
 http://vipbhbiss.top:8080/live/VIP013961741195150363/426164261fc5/437.ts
 #EXTINF:-1 tvg-id="Canal+ Box Office" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice.png" group-title="🇫🇷法兰西公共", Canal+ Box Office
-http://mag.redmytv.com:80/957A43DDF228263/82C4108405C6527/1459825
+http://mag.king-4k.cc:80/957A43DDF228263/82C4108405C6527/1459825
 #EXTINF:-1 tvg-id="Canal+ Grand Ecran" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+GrandEcran.png" group-title="🇫🇷法兰西公共", Canal+ Grand Ecran
 http://vipbhbiss.top:8080/live/VIP013961741195150363/426164261fc5/132311.ts
 #EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
@@ -27,55 +27,55 @@ http://kstv.us:8080/live/yb4yWv90vN/1007275994/47820.ts
 #EXTINF:-1 tvg-id="SkyCinema Action" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaAction.png" group-title="🇬🇧英格兰+", SkyCinema Action
 http://kstv.us:8080/live/yb4yWv90vN/1007275994/47813.ts
 #EXTINF:-1 tvg-id="SkyStore Premier 1" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier1.png" group-title="🇬🇧英格兰+", SkyStore Premier 1
-http://mytv-extra.com:88/live/1827214806/9371309264/1019373.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/741747 
 #EXTINF:-1 tvg-id="SkyStore Premier 2" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier2.png" group-title="🇬🇧英格兰+", SkyStore Premier 2
-http://mytv-extra.com:88/live/1827214806/9371309264/1019372.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/741748 
 #EXTINF:-1 tvg-id="SkyStore Premier 3" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier3.png" group-title="🇬🇧英格兰+", SkyStore Premier 3
-http://mytv-extra.com:88/live/1827214806/9371309264/1019371.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/741749 
 #EXTINF:-1 tvg-id="SkyStore Premier 4" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier4.png" group-title="🇬🇧英格兰+", SkyStore Premier 4
-http://mytv-extra.com:88/live/1827214806/9371309264/1019370.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/741750 
 #EXTINF:-1 tvg-id="SkyStore Premier 5" tvg-logo="https://mchoumi.github.io/LOGOs/SkyStorePremier5.png" group-title="🇬🇧英格兰+", SkyStore Premier 5
-http://mytv-extra.com:88/live/1827214806/9371309264/1019369.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/741751 
 
 #EXTINF:-1 tvg-id="OSN Movies Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMoviesFamily.png" group-title="🇸🇦沙特阿拉伯", OSN Movies Family
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN MOVIES Hollywood HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESHollywoodHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES Hollywood HD
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/125445 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/125445 
 #EXTINF:-1 tvg-id="OSN MOVIES ACTION HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESACTIONHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES ACTION HD
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/125446 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/125446 
 #EXTINF:-1 tvg-id="OSN MOVIES PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESPREMIERE.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES PREMIERE
-http://zeintv.xyz:8080/live/393452883A/4294683570/291544.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1445953 
 #EXTINF:-1 tvg-id="OSN COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNCOMEDY.png" group-title="🇸🇦沙特阿拉伯", OSN COMEDY
 http://161.123.116.21:80/live/Raymond/Raymond12/1689989.ts 
 
 #EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://mchoumi.github.io/LOGOs/HBOMax.png" group-title="🇺🇸 美国+", HBO Max
-http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
+http://mag.king-4k.cc:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
 #EXTINF:-1 tvg-id="HBO TOP10" tvg-logo="https://mchoumi.github.io/LOGOs/HBOTOP10.png" group-title="🇺🇸 美国+", HBO TOP10
-http://mag.redmytv.com:80/8C09A29C30A04D6/Bic5rUaI2l/1446144
+http://mag.king-4k.cc:80/8C09A29C30A04D6/Bic5rUaI2l/1446144
 
 #EXTINF:-1 tvg-id="STARZPLAY Action" tvg-logo="https://mchoumi.github.io/LOGOs/STARZPLAYAction.png" group-title="🇺🇸 美国+", STARZPLAY Action
 http://ktv.im:8080/live/William287263/Davidas7262636/51334.ts 
 
 #EXTINF:-1 tvg-id="beIN MOVIES HD 1 PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD1PREMIERE.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 1 PREMIERE
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2128 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/28553 
 #EXTINF:-1 tvg-id="beIN MOVIES HD 2 ACTION" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD2ACTION.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 2 ACTION
-http://vo01.mohdtv.com:8880/live/smarttv585cde0074ec/42005744/2127 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/28552 
 
 #EXTINF:-1 tvg-id="Dubai One" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="🇦🇪阿联酋", Dubai One
-http://mytv-extra.com:88/live/1827214806/9371309264/2277.ts 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1274 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
 http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts 
 #EXTINF:-1 tvg-id="OSN YAHALA Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYAHALAAflam.png" group-title="🇸🇦沙特阿拉伯", OSN YAHALA Aflam
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1440262 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1440262 
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlEmaratTV.png" group-title="🇦🇪阿联酋", Al Emarat TV
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/2192 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/2192 
 #EXTINF:-1 tvg-id="Dubai TV" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="🇦🇪阿联酋", Dubai TV
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="Sama Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.png" group-title="🇦🇪阿联酋", Sama Dubai
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1273 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1273 
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="🇦🇪阿联酋", Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah 2" tvg-logo="https://mchoumi.github.io/LOGOs/Sharjah2.png" group-title="🇦🇪阿联酋", Sharjah 2
@@ -93,7 +93,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr1.png" group-title="🇪🇬埃及", MBC Masr 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Masr 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMasr2.png" group-title="🇪🇬埃及", MBC Masr 2
-http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1446594 
+http://mag.king-4k.cc:80/27C1868D65A9663/A1644809A862713/1446594 
 #EXTINF:-1 tvg-id="MBC Plus Drama" tvg-logo="https://mchoumi.github.io/LOGOs/MBCPlusDrama.png" group-title="🇸🇦沙特阿拉伯", MBC Plus Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8 
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://mchoumi.github.io/LOGOs/NationalGeographicAbuDhabi.png" group-title="🇦🇪阿联酋", National Geographic Abu Dhabi
