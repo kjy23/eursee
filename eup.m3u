@@ -223,6 +223,8 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275762&extens
 #EXTINF:-1 tvg-id="Spacetoon" tvg-logo="https://mchoumi.github.io/LOGOs/Spacetoon.png" group-title="🇸🇦沙特阿拉伯", Spacetoon
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=1283&extension=ts&play_token=vwy79K8t9K 
 
+#EXTINF:-1 group-title="Sports",=== dream4ktv ===
+http://0.0.0.0
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 HD
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=534831&extension=ts&play_token=zmcgbCdZjW 
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 HD
@@ -240,23 +242,27 @@ http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578834&extens
 #EXTINF:-1 tvg-id="BEIN SPORTS 8 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 HD
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=578835&extension=ts&play_token=CnCr1ZsMfL 
 
+#EXTINF:-1 group-title="Sports",=== redmytv ===
+http://0.0.0.0
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/841.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1461007 
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/842.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1461008 
 #EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS3FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/843.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1461009 
 #EXTINF:-1 tvg-id="BEIN SPORTS 4 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/844.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1462095 
 #EXTINF:-1 tvg-id="BEIN SPORTS 5 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS5FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/846.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1462096 
 #EXTINF:-1 tvg-id="BEIN SPORTS 6 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS6FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/847.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1462097 
 #EXTINF:-1 tvg-id="BEIN SPORTS 7 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 FHD
-http://vipboacnn.top:8080/live/VIP0142169905244332/91700183036730/848.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1591580 
 #EXTINF:-1 tvg-id="BEIN SPORTS 8 FHD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8FHD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 FHD
-http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/897668 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1591581 
 
+#EXTINF:-1 group-title="Sports",=== redmytv ===
+http://0.0.0.0
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS14K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 4K
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1461007 
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS24K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 4K
@@ -274,22 +280,24 @@ http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1591580
 #EXTINF:-1 tvg-id="BEIN SPORTS 8 4K" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS84K.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 4K
 http://mag.king-4k.cc:80/0A63AC19144AF7A/7AD373910331652/968409 
 
+#EXTINF:-1 group-title="Sports",=== kstv ===
+http://0.0.0.0
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS1HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 1 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237137.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12554.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS2HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 2 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237138.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12553.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 3 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS3HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 3 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237143.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12552.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 4 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS4HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 4 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237139.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12551.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 5 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS5HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 5 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237140.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12550.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 6 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS6HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 6 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237141.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12549.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 7 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS7HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 7 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237142.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12548.ts 
 #EXTINF:-1 tvg-id="BEIN SPORTS 8 HEVC" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTS8HEVC.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS 8 HEVC
-http://1234up.com:8080/live/513fYeUBpnKUpr3D/NMG2uNtcxT/237134.ts 
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/12547.ts 
 
 #EXTINF:-1 tvg-id="BEIN SPORTS XTRA 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSXTRA1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS XTRA 1 HD
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330446&extension=ts&play_token=bV3oBWvGAO 
@@ -297,18 +305,21 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330446&
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330447&extension=ts&play_token=iA2NeL4jUS 
 #EXTINF:-1 tvg-id="BEIN SPORTS XTRA 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSXTRA3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS XTRA 3 HD
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:2D:7F:CE&stream=1330448&extension=ts&play_token=iA2NeL4jUS 
+
+#EXTINF:-1 group-title="Sports",=== redmytv ===
+http://0.0.0.0
 #EXTINF:-1 tvg-id="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSENGLISH1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS ENGLISH 1 HD
-http://portal5458.com:8080/live/HRK2DQ2RG7/6265485006/12554.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/112452 
 #EXTINF:-1 tvg-id="BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSENGLISH2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS ENGLISH 2 HD
-http://portal5458.com:8080/live/HRK2DQ2RG7/6265485006/12553.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/112453 
 #EXTINF:-1 tvg-id="BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSENGLISH3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS ENGLISH 3 HD
-http://portal5458.com:8080/live/HRK2DQ2RG7/6265485006/12552.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/112454 
 #EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 1 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSFRENCH1HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS FRENCH 1 HD
-http://mytv-extra.com:88/live/1827214806/9371309264/650.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/130937 
 #EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 2 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSFRENCH2HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS FRENCH 2 HD
-http://mytv-extra.com:88/live/1827214806/9371309264/651.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/130939 
 #EXTINF:-1 tvg-id="BEIN SPORTS FRENCH 3 HD" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSFRENCH3HD.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS FRENCH 3 HD
-http://mytv-extra.com:88/live/1827214806/9371309264/652.ts 
+http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/130940 
 
 #EXTINF:-1 tvg-id="BEIN SPORTS NEWS" tvg-logo="https://mchoumi.github.io/LOGOs/BEINSPORTSNEWS.png" group-title="🇶🇦卡塔尔体育+", BEIN SPORTS NEWS
 http://mag.redmytv.com:80/27C1868D65A9663/A1644809A862713/1698053
