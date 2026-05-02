@@ -168,7 +168,7 @@ http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&ex
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&extension=ts&play_token=1FSZP7Islc
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8 
+http://newreality2020.com:25461/live/Senhoracedeporto/24agosto2025/151179.ts 
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
@@ -208,8 +208,8 @@ http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202629.ts
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
 #EXTINF:-1 tvg-id="Jeem TV" tvg-logo="https://mchoumi.github.io/LOGOs/JeemTV.png" group-title="🇸🇦沙特阿拉伯", Jeem TV
 http://ktv.im:8080/live/William287263/Davidas7262636/51188.ts 
-#EXTINF:-1 tvg-id="Sky Cinema Animation" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaAnimation.png" group-title="🇬🇧英格兰+", Sky Cinema Animation
-http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47814.ts 
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinema.jpg" group-title="Kids",Sky Cinema Family
+http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47817.ts 
 #EXTINF:-1 tvg-id="Disney+ 2" tvg-logo="https://mchoumi.github.io/LOGOs/Disney+2.png" group-title="🇺🇸 美国+", Disney+ 2
 http://1234up.com:8080/live/a41xdP6qatuWR6Tp/F3h92OW4UM/3229.ts 
 #EXTINF:-1 tvg-id="beIN MOVIES HD 4 FAMILY" tvg-logo="https://mchoumi.github.io/LOGOs/beINMOVIESHD4FAMILY.png" group-title="🇶🇦卡塔尔", beIN MOVIES HD 4 FAMILY
