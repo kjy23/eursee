@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/164084.ts
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/54373 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/25512.ts 
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/54378 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -40,11 +40,11 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/741751
 #EXTINF:-1 tvg-id="OSN Movies Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMoviesFamily.png" group-title="🇸🇦沙特阿拉伯", OSN Movies Family
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN MOVIES Hollywood HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESHollywoodHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES Hollywood HD
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/125445 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/115304.ts 
 #EXTINF:-1 tvg-id="OSN MOVIES ACTION HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESACTIONHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES ACTION HD
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/125446 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/115305.ts 
 #EXTINF:-1 tvg-id="OSN MOVIES PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESPREMIERE.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES PREMIERE
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1445953 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/115306.ts 
 #EXTINF:-1 tvg-id="OSN COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNCOMEDY.png" group-title="🇸🇦沙特阿拉伯", OSN COMEDY
 http://161.123.116.21:80/live/Raymond/Raymond12/1689989.ts 
 
@@ -152,15 +152,15 @@ http://rt-arab.secure.footprint.net:80/1104.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8 
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/634532.ts
 #EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127275.ts
 #EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127276.ts 
 #EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127278.ts
 #EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png" group-title="🇫🇷法兰西公共", FRANCE 5
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127279.ts
 #EXTINF:-1 tvg-id="TV5 Style HD" tvg-logo="https://mchoumi.github.io/LOGOs/TV5StyleHD.png" group-title="🇫🇷法兰西公共", TV5 Style HD
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/94360.ts
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Style.png" group-title="🇫🇷法兰西公共", TV5 Style
@@ -170,7 +170,7 @@ http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&e
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=32756&extension=ts&play_token=wLUoxRI0MG 
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127281.ts 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸 美国+", Discovery Channel
