@@ -170,7 +170,7 @@ http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&e
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127282.ts
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127281.ts 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936802&extension=ts&play_token=eaXUq7P2Ix 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275861&extension=ts&play_token=IjTqCDfZld 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸 美国+", Discovery Channel
