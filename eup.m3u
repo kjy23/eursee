@@ -7,20 +7,20 @@ http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/25512.ts
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://majestictv.info:25461//live/633639120189/321217487149/68657.ts 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_11.m3u8 
+https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Movies Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMoviesAction.png" group-title="🇸🇦沙特阿拉伯", MBC Movies Action
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8 
+https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8 
 #EXTINF:-1 tvg-id="MBC Movies Thriller" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMoviesThriller.png" group-title="🇸🇦沙特阿拉伯", MBC Movies Thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8 
+https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8 
 
 #EXTINF:-1 tvg-id="Canal+ Cinema" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Cinema.png" group-title="🇫🇷法兰西公共", Canal+ Cinema
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/130831
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936874&extension=ts&play_token=mDBGUdenwY
 #EXTINF:-1 tvg-id="Canal+ Box Office" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+BoxOffice.png" group-title="🇫🇷法兰西公共", Canal+ Box Office
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1287110
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936872&extension=ts&play_token=fJvtZs6Ldu
 #EXTINF:-1 tvg-id="Canal+ Grand Ecran" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+GrandEcran.png" group-title="🇫🇷法兰西公共", Canal+ Grand Ecran
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/564043
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936880&extension=ts&play_token=vCTVZ6bZeh
 #EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/131204 
+http://majestictv.info:25461//live/828287499615/943269157576/69062.ts 
 
 #EXTINF:-1 tvg-id="SkyCinema Premiere" tvg-logo="https://mchoumi.github.io/LOGOs/SkyCinemaPremiere.png" group-title="🇬🇧英格兰+", SkyCinema Premiere
 http://206.212.242.21:8080/live/yb4yWv90vN/1007275994/47820.ts 
@@ -69,13 +69,13 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1440262 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=660666&extension=ts&play_token=eIoOekvURG 
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlEmaratTV.png" group-title="🇦🇪阿联酋", Al Emarat TV
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/2192 
 #EXTINF:-1 tvg-id="Dubai TV" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="🇦🇪阿联酋", Dubai TV
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="Sama Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.png" group-title="🇦🇪阿联酋", Sama Dubai
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/1273 
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=660671&extension=ts&play_token=KXSdCXgSA5 
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="🇦🇪阿联酋", Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah 2" tvg-logo="https://mchoumi.github.io/LOGOs/Sharjah2.png" group-title="🇦🇪阿联酋", Sharjah 2
@@ -107,11 +107,11 @@ https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_
 #EXTINF:-1 tvg-id="FATAFEAT HD" tvg-logo="https://mchoumi.github.io/LOGOs/FATAFEATHD.png" group-title="🇸🇦沙特阿拉伯", FATAFEAT HD
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=73783&extension=ts&play_token=mny9JLYE2B 
 #EXTINF:-1 tvg-id="Samira TV" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.png" group-title="🇩🇿阿尔及利亚", Samira TV
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/228075.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7345.ts 
 #EXTINF:-1 tvg-id="Echorouk TV" tvg-logo="https://mchoumi.github.io/LOGOs/EchoroukTV.png" group-title="🇩🇿阿尔及利亚", Echorouk TV
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/213447.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/34777.ts 
 #EXTINF:-1 tvg-id="Echorouk News" tvg-logo="https://mchoumi.github.io/LOGOs/EchoroukNews.png" group-title="🇩🇿阿尔及利亚", Echorouk News
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/218226.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/34778.ts 
 #EXTINF:-1 tvg-id="El Bilad" tvg-logo="https://mchoumi.github.io/LOGOs/ElBilad.png" group-title="🇩🇿阿尔及利亚", El Bilad
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/218227.ts 
 #EXTINF:-1 tvg-id="Ennahar TV" tvg-logo="https://mchoumi.github.io/LOGOs/EnnaharTV.png" group-title="🇩🇿阿尔及利亚", Ennahar TV
@@ -168,7 +168,7 @@ http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=103662&ex
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:7f:9a:5d&stream=1951195&extension=ts&play_token=1FSZP7Islc
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127282.ts
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127303.ts
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=936802&extension=ts&play_token=eaXUq7P2Ix 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
