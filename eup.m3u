@@ -69,13 +69,13 @@ http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts
 http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=660666&extension=ts&play_token=eIoOekvURG 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803517.ts 
 #EXTINF:-1 tvg-id="Al Emarat TV" tvg-logo="https://mchoumi.github.io/LOGOs/AlEmaratTV.png" group-title="🇦🇪阿联酋", Al Emarat TV
-http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/2192 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803518.ts 
 #EXTINF:-1 tvg-id="Dubai TV" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiTV.png" group-title="🇦🇪阿联酋", Dubai TV
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=1058342&extension=ts&play_token=JDqlOqaMep 
 #EXTINF:-1 tvg-id="Sama Dubai" tvg-logo="https://mchoumi.github.io/LOGOs/SamaDubai.png" group-title="🇦🇪阿联酋", Sama Dubai
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1B:79:37:0C:89&stream=660671&extension=ts&play_token=KXSdCXgSA5 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/803505.ts 
 #EXTINF:-1 tvg-id="Sharjah TV" tvg-logo="https://mchoumi.github.io/LOGOs/SharjahTV.png" group-title="🇦🇪阿联酋", Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sharjah 2" tvg-logo="https://mchoumi.github.io/LOGOs/Sharjah2.png" group-title="🇦🇪阿联酋", Sharjah 2
@@ -117,11 +117,11 @@ http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/218227.ts
 #EXTINF:-1 tvg-id="Ennahar TV" tvg-logo="https://mchoumi.github.io/LOGOs/EnnaharTV.png" group-title="🇩🇿阿尔及利亚", Ennahar TV
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/226050.ts 
 #EXTINF:-1 tvg-id="Algerie TV1" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV1.png" group-title="🇩🇿阿尔及利亚", Algerie TV1
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/228076.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7353.ts 
 #EXTINF:-1 tvg-id="Algerie TV2" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV2.png" group-title="🇩🇿阿尔及利亚", Algerie TV2
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/219539.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7356.ts 
 #EXTINF:-1 tvg-id="Algerie TV3" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV3.png" group-title="🇩🇿阿尔及利亚", Algerie TV3
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/219540.ts 
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/7355.ts 
 #EXTINF:-1 tvg-id="Algerie TV6" tvg-logo="https://mchoumi.github.io/LOGOs/AlgerieTV6.png" group-title="🇩🇿阿尔及利亚", Algerie TV6
 http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/213441.ts 
 #EXTINF:-1 tvg-id="Samira HD.ar" tvg-logo="https://mchoumi.github.io/LOGOs/SamiraTV.webp" group-title="Arabic",SamiraTV 
