@@ -154,7 +154,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/634532.ts
 #EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
-http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127275.ts
+http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127297.ts
 #EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
 http://sky-tv.org:88//live/XSMCXDYPMM/ME1ETFQVPB/127276.ts 
 #EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
@@ -190,19 +190,19 @@ http://mytv-extra.com:88/live/1827214806/9371309264/756.ts
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://mchoumi.github.io/LOGOs/France24.png" group-title="🇫🇷法兰西公共", France 24
 http://mytv-extra.com:88/live/1827214806/9371309264/755.ts
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/192831.ts 
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319549 
 #EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202465.ts 
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319550 
 #EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202466.ts 
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319551 
 #EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202467.ts 
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319552 
 #EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png" group-title="🇫🇷法兰西公共", FRANCE 5
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202468.ts
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319553
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/319554.ts
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319554
 #EXTINF:-1  tvg-id="Arte.fr" group-title="France" tvg-logo="https://mchoumi.github.io/LOGOs/Arte.png",ARTE Backup
-http://revteam11.offshorerev.cc/live/Nesrine/cFNVanZ2dx/202629.ts
+http://revteam11.offshorerev.cc:80/Nesrine/cFNVanZ2dx/319548
 
 #EXTINF:-1 tvg-id="Majid TV" tvg-logo="https://mchoumi.github.io/LOGOs/MajidTV.png" group-title="🇸🇦沙特阿拉伯", Majid TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8 
