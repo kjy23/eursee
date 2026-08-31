@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/54382
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=1058042&extension=ts&play_token=FVuJzN3pWa
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/54373
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/53053 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -40,13 +40,13 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/741751
 #EXTINF:-1 tvg-id="OSN Movies Family" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMoviesFamily.png" group-title="🇸🇦沙特阿拉伯", OSN Movies Family
 http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:ab:0a:cc&stream=599152&extension=ts&play_token=wx9opTqBFN 
 #EXTINF:-1 tvg-id="OSN MOVIES Hollywood HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESHollywoodHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES Hollywood HD
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48911.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125445 
 #EXTINF:-1 tvg-id="OSN MOVIES ACTION HD" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESACTIONHD.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES ACTION HD
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48929.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125446 
 #EXTINF:-1 tvg-id="OSN MOVIES PREMIERE" tvg-logo="https://mchoumi.github.io/LOGOs/OSNMOVIESPREMIERE.png" group-title="🇸🇦沙特阿拉伯", OSN MOVIES PREMIERE
-http://yolomax.pro:80/live/TGBU65S/7HL6XS5/48912.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125447 
 #EXTINF:-1 tvg-id="OSN COMEDY" tvg-logo="https://mchoumi.github.io/LOGOs/OSNCOMEDY.png" group-title="🇸🇦沙特阿拉伯", OSN COMEDY
-http://digi.dtv3.lol:2082/live/mejdoubnew_958581/CHmNLjSr/15038.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125451 
 
 #EXTINF:-1 tvg-id="HBO Max" tvg-logo="https://mchoumi.github.io/LOGOs/HBOMax.png" group-title="🇺🇸 美国+", HBO Max
 http://103.100.169.51:80/8C09A29C30A04D6/Bic5rUaI2l/1446135 
@@ -62,11 +62,11 @@ http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/28553
 http://103.100.169.51:80/27C1868D65A9663/A1644809A862713/28552 
 
 #EXTINF:-1 tvg-id="Dubai One" tvg-logo="https://mchoumi.github.io/LOGOs/DubaiOne.png" group-title="🇦🇪阿联酋", Dubai One
-http://www.r56mail.bingo:80/live/xasez13/aHnr65d/682.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/1274 
 #EXTINF:-1 tvg-id="OSN TV Yahala Aflam.ae" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYahalaAflam.png" group-title="Movies",OSN YAHALA BILARABI 
-http://zeintv.xyz:8080/live/393452883A/4294683570/291534.ts 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125454 
 #EXTINF:-1 tvg-id="OSN YAHALA Aflam" tvg-logo="https://mchoumi.github.io/LOGOs/OSNYAHALAAflam.png" group-title="🇸🇦沙特阿拉伯", OSN YAHALA Aflam
-http://platinumz.xyz:8080/play/live.php?mac=00:1A:79:46:41:86&stream=577411&extension=ts&play_token=4uOAX6fmdQ 
+http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/125453 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Oula HD" tvg-logo="https://mchoumi.github.io/LOGOs/AbuDhabiOulaHD.png" group-title="🇦🇪阿联酋", Abu Dhabi Oula HD
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/2802.ts 
@@ -170,7 +170,7 @@ http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&ex
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/57479
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8131
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8083 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
