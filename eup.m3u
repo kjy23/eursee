@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz" 
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mchoumi.github.io/LOGOs/MBC2.png" group-title="🇸🇦沙特阿拉伯", MBC 2
-http://acces4k.info:8089/live/5371246701492/2526961952873/85675592.ts
+http://vipzd.co:88//live/6645047731/6645047731/7311.ts
 #EXTINF:-1 tvg-id="MBC Max" tvg-logo="https://mchoumi.github.io/LOGOs/MBCMax.png" group-title="🇸🇦沙特阿拉伯", MBC Max
-http://acces4k.info:8089/live/5371246701492/2526961952873/85675603.ts
+http://vipzd.co:88//live/6645047731/6645047731/164089.ts
 #EXTINF:-1 tvg-id="MBC Action" tvg-logo="https://mchoumi.github.io/LOGOs/MBCAction.png" group-title="🇸🇦沙特阿拉伯", MBC Action
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/53053 
 #EXTINF:-1 tvg-id="MBC Movies" tvg-logo="https://mchoumi.github.io/LOGOs/Movies.webp" group-title="Movies",MBC Aflam 
@@ -166,7 +166,7 @@ http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/412820.ts
 #EXTINF:-1 tvg-id="TV5 Style HD" tvg-logo="https://mchoumi.github.io/LOGOs/TV5StyleHD.png" group-title="🇫🇷法兰西公共", TV5 Style HD
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Style.png" group-title="🇫🇷法兰西公共", TV5 Style
-http://taoufi-eagle2.org:80/play/live.php?mac=00:1A:79:d1:9d:00&stream=103662&extension=ts&play_token=RFz4diLA15 
+http://vipzd.co:88//live/TNAQEJWRXL/UVH7VTJSIC/94360.ts 
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
