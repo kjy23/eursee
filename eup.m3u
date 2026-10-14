@@ -152,7 +152,7 @@ http://rt-arab.secure.footprint.net:80/1104.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8 
 
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://mchoumi.github.io/LOGOs/TF1.png" group-title="🇫🇷法兰西公共", TF1
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/57478
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1149.ts
 #EXTINF:-1 tvg-id="FRANCE 2" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE2.png" group-title="🇫🇷法兰西公共", FRANCE 2
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131035
 #EXTINF:-1 tvg-id="France 3" tvg-logo="https://mchoumi.github.io/LOGOs/France3.png" group-title="🇫🇷法兰西公共", France 3
@@ -160,25 +160,27 @@ http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131037
 #EXTINF:-1 tvg-id="FRANCE 4" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE4.png" group-title="🇫🇷法兰西公共", FRANCE 4
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/131041
 #EXTINF:-1 tvg-id="FRANCE 5" tvg-logo="https://mchoumi.github.io/LOGOs/FRANCE5.png" group-title="🇫🇷法兰西公共", FRANCE 5
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8116
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1153.ts
 #EXTINF:-1 tvg-id="TV5 Style HD" tvg-logo="https://mchoumi.github.io/LOGOs/TV5StyleHD.png" group-title="🇫🇷法兰西公共", TV5 Style HD
 http://103.175.129.86:80/live/2JT312ZUWRKQSEZ/VawOAGeucN/106630.ts
 #EXTINF:-1 tvg-id="TV5 Style HD" tvg-logo="https://mchoumi.github.io/LOGOs/TV5StyleHD.png" group-title="🇫🇷法兰西公共", TV5 Style HD
 http://103.100.169.52:80/27C1868D65A9663/A1644809A862713/118334
 #EXTINF:-1 tvg-id="TV5 Style" tvg-logo="https://mchoumi.github.io/LOGOs/TV5Style.png" group-title="🇫🇷法兰西公共", TV5 Style
 http://vipzd.co:88//live/TNAQEJWRXL/UVH7VTJSIC/94360.ts 
+#EXTINF:-1 tvg-id="TV5 Chefs" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Chefs 
+http://prime8k.co:80/live/28dce6c8feac/eb0516a593/2162558.ts
 #EXTINF:-1 tvg-id="TV5 Voyage" tvg-logo="https://mchoumi.github.io/LOGOs/TV5 Voyage.png" group-title="France",TV5 Voyage
 http://www.r56mail.bingo:80/live/xasez13/aHnr65d/178091.ts
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://mchoumi.github.io/LOGOs/M6.png" group-title="🇫🇷法兰西公共", M6
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8131
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/6.ts
 #EXTINF:-1 tvg-id="ARTE" tvg-logo="https://mchoumi.github.io/LOGOs/ARTE.png" group-title="🇫🇷法兰西公共", ARTE
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:66:FA&stream=106935&extension=ts&play_token=8yb15WWsTb 
 #EXTINF:-1 tvg-id="Canal+ Docs" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+Docs.png" group-title="🇫🇷法兰西公共", Canal+ Docs
 http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/58336 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mchoumi.github.io/LOGOs/DiscoveryChannel.png" group-title="🇺🇸 美国+", Discovery Channel
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/29793 
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/7077.ts 
 #EXTINF:-1 tvg-id="Science & Vie" tvg-logo="https://mchoumi.github.io/LOGOs/Science&Vie.png" group-title="🇫🇷法兰西公共", Science & Vie
-http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/8177 
+http://aio-kstream.com:2103/live/azizbp/jrfn7MtR/1840.ts 
 #EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
 http://195.128.24.55:80/play/live.php?mac=00:1A:79:CB:8C:5F&stream=275682&extension=ts&play_token=l6FUFiChcU 
 #EXTINF:-1 tvg-id="Canal+ France" tvg-logo="https://mchoumi.github.io/LOGOs/Canal+France.png" group-title="🇫🇷法兰西公共", Canal+ France
